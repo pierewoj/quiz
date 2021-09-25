@@ -1,0 +1,21 @@
+body {
+    font: 14px "Century Gothic", Futura, sans-serif;
+    margin: 20px;
+}
+
+.selectedAnswer {
+    color: chartreuse;
+}
+
+.incorrectAnswer {
+    color: red;
+    
+}
+
+.asnwer {
+    display: inline;
+}
+
+.notSelectedAnswer {
+    color: black;
+}
