@@ -4,20 +4,15 @@ import './index.css';
 import { question_bank } from './bank.js'
 
 class Answer extends React.Component {
-    constructor(props) {
-        super(props);
-
-    }
-
     render() {
         let q = this.props.value;
         let cls = q.isSelected ? "selectedAnswer" : "notSelectedAnswer";
 
-        let isAnsweredCorrectly = q.isSelected && q.isCorrect ||
-            !q.isSelected && !q.isCorrect;
+        let isAnsweredCorrectly = (q.isSelected && q.isCorrect) ||
+            (!q.isSelected && !q.isCorrect);
         let warningMarkerText = q.isCorrect ? "Tą odpowiedź nalezalo zaznaczyc:" :
             "Tej odpowiedzi NIE nalezalo zaznaczac:";
-        let warningMarker = this.props.showResults && !isAnsweredCorrectly ?
+        let warningMarker = (this.props.showResults && !isAnsweredCorrectly) ?
             warningMarkerText : "";
 
         return (
@@ -32,10 +27,6 @@ class Answer extends React.Component {
 }
 
 class Question extends React.Component {
-    constructor(props) {
-        super(props);
-    }
-
     render() {
         const answers = this.props.value.answers.map((a) =>
             <Answer value={a} showResults={this.props.showResults} toogleSelectionHandler={ans => {
