@@ -1,7 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import { question_bank } from './bank.js'
+import { interna } from './bank/interna.js'
+
+const question_bank = interna
 
 class Answer extends React.Component {
     render() {
@@ -108,7 +110,9 @@ class Board extends React.Component {
 
     pickQuestions() {
         let q_num = Math.min(10, question_bank.length);
-        let qs = question_bank.slice().filter(q => q.tags.includes(this.props.tag));
+        let qs = question_bank.slice()
+            .filter(q => q.tags.includes(this.props.tag))
+            .filter(q => !q.isHidden);
         shuffleArray(qs);
         qs=qs.slice(0, q_num);
         qs.forEach(q => {
