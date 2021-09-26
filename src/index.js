@@ -7,19 +7,12 @@ class Answer extends React.Component {
     render() {
         let q = this.props.value;
         let cls = q.isSelected ? "selectedAnswer" : "notSelectedAnswer";
-
-        let isAnsweredCorrectly = (q.isSelected && q.isCorrect) ||
-            (!q.isSelected && !q.isCorrect);
-        let warningMarkerText = q.isCorrect ? "Tą odpowiedź nalezalo zaznaczyc:" :
-            "Tej odpowiedzi NIE nalezalo zaznaczac:";
-        let warningMarker = (this.props.showResults && !isAnsweredCorrectly) ?
-            warningMarkerText : "";
+        let textClass = this.props.showResults ? (q.isCorrect ? "answerTextCorrect" : "answerTextIncorrect") : "answerTextUnknown";
 
         return (
             <li onClick={() => this.props.toogleSelectionHandler(q.answerText)} class={cls}>
-                <div class="answer">
-                    <div class="incorrectAnswer">{warningMarker}</div>
-                    <div>{q.answerText}</div>
+                <div>
+                    <div class={textClass}>{q.answerText}</div>
                 </div>
             </li>
         );
@@ -28,6 +21,8 @@ class Answer extends React.Component {
 
 class Question extends React.Component {
     render() {
+        const isCorrect = isCorrectlyAnswered(this.props.value)
+        const questionTextPrefix = this.props.showResults ? (isCorrect ? "[OK] " : "[WRONG] ") : "";
         const answers = this.props.value.answers.map((a) =>
             <Answer value={a} showResults={this.props.showResults} toogleSelectionHandler={ans => {
                 if (this.props.showResults) {
@@ -37,8 +32,8 @@ class Question extends React.Component {
             }}/>);
         return (
             <div>
-                <div>{this.props.value.questionText}</div>
-                <ul>{answers}</ul>
+                <div>{questionTextPrefix + this.props.value.questionText}</div>
+                <ul class="answerList">{answers}</ul>
             </div>
         );
     }
@@ -60,20 +55,28 @@ class Board extends React.Component {
         const buttons = []
         if (!this.state.showResults) {
             buttons.push(<button onClick={() => this.showResults()}>
-                Pokaz wyniki
+                Show results
             </button>)
         } else {
             buttons.push(<button onClick={() => this.onceAgainSameSet()}>
-                Jeszcze raz to samo
+                Same questions again
             </button>)
             buttons.push(<button onClick={() => this.newSet()}>
-                Nowe pytania
+                New questions
         </button>)
         }
+        
+        const resultsText = this.state.showResults ?
+            `Your score: ${this.state.questions.filter(q => isCorrectlyAnswered(q)).length}/${this.state.questions.length}`
+        : null;
+
         return (
             <div>
                 <div>
                 {qs}
+                </div>
+                <div>
+                    {resultsText}
                 </div>
                 <div>
                     {buttons}
@@ -155,11 +158,11 @@ class Game extends React.Component {
 
     render() {
         let possible_tags = [...new Set(question_bank.flatMap(q => q.tags))]
-        let buttons = possible_tags.map(tag => <div><button onClick={() => this.select_tag(tag)}>Kategoria: {tag}</button></div>)
+        let buttons = possible_tags.map(tag => <div><button onClick={() => this.select_tag(tag)}>Category: {tag}</button></div>)
         let board = <div>
-             <h1>Kategoria: {this.state.tag} </h1>
+             <h1>Category: {this.state.tag} </h1>
              <Board tag={this.state.tag}/>
-             <button onClick={() => this.resetCategory()}>Zmień kategorię</button>
+             <button onClick={() => this.resetCategory()}>Change category</button>
         </div> 
         return (
             <div className="game">
@@ -185,6 +188,10 @@ class Game extends React.Component {
             isSelected: false
         })
     }
+}
+
+function isCorrectlyAnswered(question) {
+    return question.answers.every(a => ! (a.isCorrect ^ a.isSelected))
 }
 
 function shuffleArray(array) {
