@@ -199,8 +199,11 @@ class Game extends React.Component {
 
     render() {
         let possible_tags = [...new Set(question_bank.flatMap(q => q.tags))]
-        let buttons = possible_tags.map(tag =>
-          <div><button onClick={() => this.select_tag(tag)} class="categoryBtn">Category: {tag}</button></div>)
+        let buttons = possible_tags.map(tag => {
+            return <div><button onClick={() => this.select_tag(tag)}
+                class="categoryBtn"
+                style={{borderColor: this.stringToColour(tag)}}>Category: {tag}</button></div>
+        })
         let board = <div>
              <h1>Category: {this.state.tag} </h1>
              <Board tag={this.state.tag}/>
@@ -239,6 +242,19 @@ class Game extends React.Component {
             isSelected: false
         })
     }
+
+    stringToColour(str) {
+        var hash = 0;
+        for (var i = 0; i < str.length; i++) {
+          hash = str.charCodeAt(i) + ((hash << 5) - hash);
+        }
+        var colour = '#';
+        for (var j = 0; j < 3; j++) {
+          var value = (hash >> (j * 8)) & 0xFF;
+          colour += ('00' + value.toString(16)).substr(-2);
+        }
+        return colour;
+      }
 }
 
 function isCorrectlyAnswered(question) {

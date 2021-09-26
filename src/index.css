@@ -54,6 +54,7 @@ button {
     padding: 5px;
     margin: 5px;
     border-radius: 5px;
+    border-width: 3px;
 }
 
 .categoryBtn {
