@@ -199,16 +199,26 @@ class Game extends React.Component {
 
     render() {
         let possible_tags = [...new Set(question_bank.flatMap(q => q.tags))]
-        let buttons = possible_tags.map(tag => <div><button onClick={() => this.select_tag(tag)}>Category: {tag}</button></div>)
+        let buttons = possible_tags.map(tag =>
+          <div><button onClick={() => this.select_tag(tag)} class="categoryBtn">Category: {tag}</button></div>)
         let board = <div>
              <h1>Category: {this.state.tag} </h1>
              <Board tag={this.state.tag}/>
              <button onClick={() => this.resetCategory()}>Change category</button>
-        </div> 
+        </div>
+        let tagSelection = <div>
+            <h1>Quiz LEKarski</h1>
+            <div>
+              {buttons}
+            </div>
+            <footer>
+                Hania Kuba 2021
+            </footer>
+        </div>
         return (
             <div className="game">
                 <div>
-                    {this.state.isSelected ? null : buttons}
+                    {this.state.isSelected ? null : tagSelection}
                 </div>
                 <div className="game-board">
                     {this.state.isSelected ? board : null}
