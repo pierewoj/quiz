@@ -18,6 +18,24 @@ export const question_bank = [
         tags: ['zwierzęta', 'łatwe']
     },
     {
+        questionText: 'Jakie jest znaczenie wyrostka robaczkowego?',
+        answers: [
+            {
+                answerText: '10%',
+                isCorrect: true
+            },
+            {
+                answerText: '20%',
+                isCorrect: false
+            },
+            {
+                answerText: '30%',
+                isCorrect: false
+            }
+        ],
+        tags: ['medycyna']
+    },
+    {
         questionText: 'Co ma na uchu słoń?',
         answers: [
             {
