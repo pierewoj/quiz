@@ -18,6 +18,6 @@ def parse_q(q):
 
 raw = parser.from_file(sys.argv[1])
 txt = raw['content']
-qs = re.compile(r"Pytanie\s*nr\s*\d*").split(txt)
+qs = re.compile(r"(Pytanie|Question)\s*nr\s*\d*").split(txt)
 parsed = list(map(lambda q : parse_q(q), qs[1:]))
-print(f'export const {sys.argv[2]} = ' + json.dumps(parsed, indent=4, ensure_ascii=False))
+print(f'export const {sys.argv[2]} = ' + json.dumps(parsed, indent=4, ensure_ascii=False) + ';')

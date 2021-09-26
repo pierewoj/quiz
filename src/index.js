@@ -1,9 +1,46 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import { interna } from './bank/interna.js'
+import { interna } from './bank/LEK_interna.js'
+import { LEK_bioethics_and_medical_law } from './bank/LEK_bioethics_and_medical_law.js'
+import { LEK_bioetyka_i_prawo_medyczne } from './bank/LEK_bioetyka_i_prawo_medyczne.js'
+import { LEK_chirurgia } from './bank/LEK_chirurgia.js'
+import { LEK_emergency_medicine_intensive_therapy } from './bank/LEK_emergency_medicine_intensive_therapy.js'
+import { LEK_family_medicine } from './bank/LEK_family_medicine.js'
+import { LEK_general_surgery } from './bank/LEK_general_surgery.js'
+import { LEK_internal_diseases } from './bank/LEK_internal_diseases.js'
+import { LEK_medical_ruling } from './bank/LEK_medical_ruling.js'
+import { LEK_medycyna_ratunkowa_i_intensywna_terapia } from './bank/LEK_medycyna_ratunkowa_i_intensywna_terapia.js'
+import { LEK_medycyna_rodzinna } from './bank/LEK_medycyna_rodzinna.js'
+import { LEK_obstetrics_and_gynecology } from './bank/LEK_obstetrics_and_gynecology.js'
+import { LEK_orzecznictwo } from './bank/LEK_orzecznictwo.js'
+import { LEK_pediatria } from './bank/LEK_pediatria.js'
+import { LEK_pediatrics } from './bank/LEK_pediatrics.js'
+import { LEK_poloznictwo } from './bank/LEK_poloznictwo.js'
+import { LEK_psychiatria } from './bank/LEK_psychiatria.js'
+import { LEK_psychiatry } from './bank/LEK_psychiatry.js'
+import { LEK_public_health } from './bank/LEK_public_health.js'
+import { LEK_zdrowie_publiczne } from './bank/LEK_zdrowie_publiczne.js'
 
-const question_bank = interna
+const question_bank = interna.concat(LEK_bioethics_and_medical_law)
+    .concat(LEK_bioetyka_i_prawo_medyczne)
+    .concat(LEK_chirurgia)
+    .concat(LEK_emergency_medicine_intensive_therapy)
+    .concat(LEK_family_medicine)
+    .concat(LEK_general_surgery)
+    .concat(LEK_internal_diseases)
+    .concat(LEK_medical_ruling)
+    .concat(LEK_medycyna_ratunkowa_i_intensywna_terapia)
+    .concat(LEK_medycyna_rodzinna)
+    .concat(LEK_obstetrics_and_gynecology)
+    .concat(LEK_orzecznictwo)
+    .concat(LEK_pediatria)
+    .concat(LEK_pediatrics)
+    .concat(LEK_poloznictwo)
+    .concat(LEK_psychiatria)
+    .concat(LEK_psychiatry)
+    .concat(LEK_public_health)
+    .concat(LEK_zdrowie_publiczne)
 
 class Answer extends React.Component {
     render() {

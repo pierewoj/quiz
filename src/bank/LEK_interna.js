@@ -2,7 +2,7 @@ export const interna = [
     {
         "questionText": "Kobieta lat 52, przyjmuje doustne preparaty żelaza z powodu nieznacznej  niedokrwistości mikrocytarnej - zgłasza obfite miesiączki. Dodatkowo lekarz zalecił  wykonanie trzykrotne testu gwajakolowego na obecność krwi utajonej w kale - wyniki  dodatnie. U tej pacjentki należy w pierwszej kolejności:",
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -31,7 +31,7 @@ export const interna = [
         "questionText": "U chorego z kardiomiopatią przerostową, ze szczytowym, chwilowym gradientem w  drodze odpływu lewej komory - 35 mmHg (ocenionym metodą echokardiografii  dopplerowskiej), z frakcją wyrzutową lewej komory 52% i objawami niewydolności serca  w II klasie NYHA oraz bólami dławicowymi należy unikać stosowania:  1) niesteroidowych leków przeciwzapalnych;  2) nierozszerzających naczyń beta-adrenolityków;  3) niedihydropirynowych blokerów kanału wapniowego;  4) nitratów o przedłużonym działaniu;  5) glikozydów naparstnicy.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -60,7 +60,7 @@ export const interna = [
         "questionText": "Do objawów pozastawowych reumatoidalnego zapalenia stawów zalicza się:  1) powiększenie węzłów chłonnych;  2) guzki reumatoidalne;  3) włóknienie płuc;  4) zapalenia spojówek, twardówki, nadtwardówki;  5) zapalenie osierdzia.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -89,7 +89,7 @@ export const interna = [
         "questionText": "62-letni pacjent, z nadciśnieniem tętniczym i cukrzycą typu 2, zgłosił się do Poradni  Podstawowej Opieki Zdrowotnej, z powodu bólu o charakterze kłucia za mostkiem,  który pojawia się po wejściu na pierwsze piętro. Dolegliwości wystąpiły po raz pierwszy  około 6 tygodni temu. W badaniu przedmiotowym bez istotnych odchyleń. W EKG rytm  zatokowy miarowy 70/min. Bez zmian odcinka ST i załamka T. Jakie jest prawidłowe  dalsze postępowanie?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -118,7 +118,7 @@ export const interna = [
         "questionText": "70-letni chory z leczonym od ponad 30 lat nadciśnieniem tętniczym, zgłosił się do  poradni lekarza rodzinnego z powodu nasilających się od tygodnia obrzęków kończyn    dolnych. W badaniu fizykalnym podwyższone ciśnienie tętnicze oraz obrzęki wokół  kostek. Wskaż najmniej prawdopodobną przyczynę tych objawów:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -147,7 +147,7 @@ export const interna = [
         "questionText": "Do pozasercowych przyczyn migotania przedsionków zalicza się:  1) nadczynność tarczycy;  2) niedoczynność tarczycy;  3) ostre zakażenie;  4) obturacyjny bezdech senny;  5) guz chromochłonny.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -176,7 +176,7 @@ export const interna = [
         "questionText": "Charakterystycznymi nieprawidłowościami w zapisie EKG w przebiegu hiperkaliemii są:  1) obniżenie odcinków ST;  2) spłaszczenie załamków P;  3) skrócenie odstępów QT;  4) wzrost amplitudy i zwężenie załamków T;  5) wzrost amplitudy i szerokości załamków U.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -205,7 +205,7 @@ export const interna = [
         "questionText": "Nowotworowa niedrożność jelit:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -234,7 +234,7 @@ export const interna = [
         "questionText": "Obniżone stężenie żelaza w surowicy stwierdza się:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -263,7 +263,7 @@ export const interna = [
         "questionText": "W jakich sytuacjach klinicznych dochodzi do obniżenia wartości wskaźnika transferu  tlenku węgla w płucach (DLCO)?  1) we włóknieniu śródmiąższowym płuc;  2) wypełnienia światła pęcherzyków przez krew;  3) w kontrolowanej astmie;  4) w rozedmie;  5) w przebiegu ciężkich zaburzeniach perfuzji (na przykład w przebiegu zatoru tętnicy  płucnej).  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -292,7 +292,7 @@ export const interna = [
         "questionText": "Wskaż fałszywe stwierdzenie dotyczące nowotworu neuroendokrynnego żołądka:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -321,7 +321,7 @@ export const interna = [
         "questionText": "U 23-letniej chorej z rozpoznanym od miesiąca reumatoidalnym zapaleniem stawów,  która do tej pory nie rodziła, nie należy w terapii stosować:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -350,7 +350,7 @@ export const interna = [
         "questionText": "Jakie sytuacje kliniczne mogą prowadzić do wystąpienia niedomykalności aortalnej?  1) rozwarstwienie aorty typu B wg klasyfikacji Stanford;  2) dylatacja aorty w przebiegu wieloletniego nadciśnienia tętniczego;  3) kardiomiopatia niedokrwienna z rozstrzenią lewej komory;    4) ubytek w przegrodzie międzykomorowej typu odpływowego;  5) ostre zapalenie mięśnia sercowego.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -379,7 +379,7 @@ export const interna = [
         "questionText": "Wskaż prawdziwe stwierdzenie dotyczące zasad i czasu leczenia przewlekłego  zapalenia wątroby typu B (PZW B):",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -408,7 +408,7 @@ export const interna = [
         "questionText": "Do czynników ryzyka sprzyjających zachorowaniu na pozaszpitalne zapalenie płuc  należą:  1) zła higiena jamy ustnej i próchnica zębów;  2) przewlekła choroba zwyrodnieniowa stawów kręgosłupa;  3) podeszły wiek;  4) praca w klimatyzowanym pomieszczeniu;  5) leczenie glikokortykosteroidami.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -437,7 +437,7 @@ export const interna = [
         "questionText": "Rak trzustki może być związany z:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -466,7 +466,7 @@ export const interna = [
         "questionText": "Oznaczanie utraty albuminy w 24-godzinnej zbiórce moczu może być najlepiej  zastąpione przez:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -495,7 +495,7 @@ export const interna = [
         "questionText": "Stwierdzenie podwyższonego stężenia antygenu swoistego dla prostaty (PSA):",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -524,7 +524,7 @@ export const interna = [
         "questionText": "Wskaż badanie laboratoryjne, które wykonuje się w celu rozstrzygnięcia czy  wodobrzusze powstało w mechanizmie nadciśnienia wrotnego:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -553,7 +553,7 @@ export const interna = [
         "questionText": "Śródmiąższowe zapalenie płuc:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -582,7 +582,7 @@ export const interna = [
         "questionText": "Lekiem pierwszego rzutu w terapii świądu skóry w chorobach cholestatycznych wątroby  jest:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -611,7 +611,7 @@ export const interna = [
         "questionText": "Pacjent lat 58, dotąd nie leczący się z powodu chorób przewlekłych, zgłasza od  dłuższego czasu tendencję do zaparć. Zgłosił się do szpitala z powodu wypróżnień z  widoczną świeżą krwią, trwających od dwóch dni. Pacjent w stanie ogólnym dobrym.  RR 135/65 mmHg, HR 84/min, temp. 36,6 °C, BMI 31 kg/m . Chory miał wykonaną  kolonoskopię przesiewową w 55. r.ż., w której rozpoznano tylko uchyłki esicy. Wskaż  najbardziej prawdopodobną przyczynę krwawienia:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -640,7 +640,7 @@ export const interna = [
         "questionText": "U pacjenta z ostrym uszkodzeniem nerek stwierdzono w biopsji cechy mikroangiopatii  zakrzepowej. Może ona wystąpić w przebiegu:  1) ziarniniakowatości z zapaleniem naczyń (GPA);  2) fazy złośliwej nadciśnienia tętniczego;  3) atypowego zespołu hemolityczno-mocznicowego;  4) zespołu płucno-nerkowego;  5) zespołu antyfosfolipidowego.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -669,7 +669,7 @@ export const interna = [
         "questionText": "Na izbę przyjęć zgłasza się z powodu bólu w klatce piersiowej 60-letni pacjent z  cukrzycą, nadciśnieniem tętniczym i napadowym migotaniem przedsionków. W  badaniach laboratoryjnych stwierdzono podwyższone stężenie troponin sercowych.  Przyczyną powyższych dolegliwości może być:  1) dusznica niestabilna;  2    2) tętniak rozwarstwiający aorty;  3) migotanie przedsionków z szybką akcją komór;  4) zdekompensowana niewydolność serca;  5) zatorowość płucna;  6) zawał serca NSTEMI;  7) udar mózgu;  8) choroba refluksowa przełyku i przewlekła choroba nerek.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -698,7 +698,7 @@ export const interna = [
         "questionText": "Duszność typu ortopnoe u pacjenta z niewydolnością lewokomorową typowo pojawia  się:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -727,7 +727,7 @@ export const interna = [
         "questionText": "28-letni chory bez obciążającego wywiadu chorobowego zgłosił się do poradni lekarza  rodzinnego z powodu nasilających się od tygodnia osłabienia i obrzęków kończyn  dolnych w ciągu dnia oraz nykturii. W badaniu fizykalnym prawidłowe ciśnienie tętnicze  oraz obrzęki wokół kostek. Występujące objawy z największym prawdopodobieństwem  sugerują:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -756,7 +756,7 @@ export const interna = [
         "questionText": "U 54-letniego mężczyzny nadużywającego alkoholu tomografia komputerowa wykazała  nierówności konturu wątrobowego i powiększoną śledzionę oraz w prawym płacie  wątroby zmianę ogniskową o średnicy 3,5 cm. Zmiana ta wzmacniała się silniej od  reszty wątroby w fazie tętniczej badania oraz wypłukiwała się z kontrastu w fazie żylnej  badania. Radiolog zasugerował rozpoznanie gruczolaka wątroby. Stężenie alfa-  fetoproteiny wynosi 14 ng/ml (norma < 5 ng/ml). Wskaż dalsze postępowanie:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -785,7 +785,7 @@ export const interna = [
         "questionText": "56-letnia kobieta z nawrotową obustronną kamicą nerkową, rozpoznaną przed 10 laty,  depresją trudno poddającą się leczeniu, nadciśnieniem tętniczym i paląca papierosy  zgłosiła się z wykonanym bez konsultacji z lekarzem wynikiem densytometrii metodą  DXA kości przedramienia, w którym stwierdzono T-score: -2,9. Wskaż najważniejsze  badania w dalszym postępowaniu diagnostycznym:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -814,7 +814,7 @@ export const interna = [
         "questionText": "W przypadku zajęcia układu oddechowego u chorej na toczeń układowy pod postacią  toczniowego zapalenia płuc można zastosować:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -843,7 +843,7 @@ export const interna = [
         "questionText": "Wskaż zestaw objawów najbardziej charakterystyczny dla zapalenia opon mózgowo-  rdzeniowych:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -872,7 +872,7 @@ export const interna = [
         "questionText": "U pacjenta z wieloletnią cukrzycą typu drugiego i cukrzycową chorobą nerek, leczonego  dotąd lekami doustnymi doszło do progresji przewlekłej choroby nerek i do spadku  współczynnika przesączania kłębuszkowego do 15 ml/min/1,73 m . Lekami, które  można brać pod uwagę w dalszym leczeniu hipoglikemizującym są:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -901,7 +901,7 @@ export const interna = [
         "questionText": "Wskaż fałszywe stwierdzenie dotyczące kardiomiopatii restrykcyjnej (RCM):",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -930,7 +930,7 @@ export const interna = [
         "questionText": "Wynik badania morfologii krwi: WBC 126,2 G/L, LY 33,61 G/L, MO 82,95 G/L, NE 9,62  G/L, RBC 3,82 T/L, HGB 10,8 g/dL, MCV 84,6 fL, PLT 48 G/L sugeruje rozpoznanie:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -959,7 +959,7 @@ export const interna = [
         "questionText": "Wskaż prawdziwe stwierdzenia dotyczące gwałtownie postępującego kłębuszkowego  zapalenia nerek z przeciwciałami przeciwko błonie podstawnej kłębuszków (anty-GBM):  1) szczyt zachorowań występuje u osób starszych > 60. roku życia;  2) w surowicy pacjentów stwierdza się autoprzeciwciała przeciwko niekolagenowej  domenie łańcucha α3 (kolagenu IV);  3) leczenie indukcyjne obejmuje pulsy glikokortykosteroidów i cyklofosfamid;  4) przebieg kliniczny cechuje się częstymi nawrotami;  5) zmianom w nerkach mogą towarzyszyć zmiany w płucach w postaci krwawienia  dopęcherzykowego.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -988,7 +988,7 @@ export const interna = [
         "questionText": "W terapii podtrzymującej, po uzyskaniu remisji postaci rozplemowej nefropatii  toczniowej zaleca się jako leczenie pierwszego wyboru:  1) mykofenolan mofetylu + prednizon;  2) cyklosporynę + prednizon;  3) cyklofosfamid doustny + prednizon;  4) azatioprynę + prednizon;  5) metotreksat + prednizon.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -1017,7 +1017,7 @@ export const interna = [
         "questionText": "45-letnia pacjentka z marskością wątroby na podłożu infekcji HCV skarży się na  znaczne osłabienie i duszność nasilającą się po zmianie pozycji ciała z leżącej na  stojącą. W badaniach laboratoryjnych wykluczono niedokrwistość i sideropenię.  Stężenie białka CRP jest prawidłowe. RTG klatki piersiowej nie wykazało  nieprawidłowości. Jakie badanie należy wykonać, aby wyjaśnić przyczynę skarg  pacjentki?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -1046,7 +1046,7 @@ export const interna = [
         "questionText": "78-letni chory został przywieziony przez zespół ratownictwa medycznego do  szpitalnego oddziału ratunkowego z powodu ogólnego osłabienia, narastających od  około miesiąca ciastowatych obrzęków kończyn dolnych i duszności. Chory z  wieloletnim wywiadem dobrze kontrolowanego nadciśnienia tętniczego i  reumatoidalnego zapalenia stawów (RZS), z utrzymującą się umiarkowaną aktywnością  choroby pomimo stosowania niesteroidowych leków przeciwzapalnych. Z powodu  narastających obrzęków lekarz POZ, przed 10 dniami, zalecił stosowanie furosemidu 2  razy dziennie. Leczenie to nie przyniosło zahamowania narastania obrzęków. W celu  ustalenia przyczyny narastającej retencji płynu należy w pierwszej kolejności zlecić:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -1075,7 +1075,7 @@ export const interna = [
         "questionText": "75-letnia kobieta w badaniu kontrolnym ma stężenie sodu w surowicy krwi wynoszące  132 mmol/l. Kobieta ta nie zgłasza żadnych dolegliwości i nie bierze żadnych leków.  Wskaż właściwy sposób postępowania:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -1104,7 +1104,7 @@ export const interna = [
         "questionText": "Wskaż kłębuszkowe zapalenia nerek, w przebiegu których stwierdza się w kłębuszkach  nerkowych obecność złogów kompleksów immunologicznych:  1) nefropatia błoniasta;    2) nefropatia IgA;  3) ogniskowe segmentalne stwardnienie kłębuszków (FSGS);  4) submikroskopowe kłębuszkowe zapalenie nerek;  5) ostre poinfekcyjne kłębuszkowe zapalenie nerek.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -1133,7 +1133,7 @@ export const interna = [
         "questionText": "Infliksymab (przeciwciała anty-TNF alfa) jest stosowany w nieswoistych chorobach  zapalnych jelita w niżej wymienionych przypadkach, z wyjątkiem:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -1162,7 +1162,7 @@ export const interna = [
         "questionText": "Wskaż fałszywe stwierdzenie dotyczące inhibitorów pompy protonowej (IPP):",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -1191,7 +1191,7 @@ export const interna = [
         "questionText": "Wskaż sytuacje kliniczne, w których rozwija się przewlekłe cewkowo-śródmiąższowe,  niebakteryjne zapalenie nerek:  1) nefropatia dnawa;         2) przewlekłe leczenie litem;       3) pierwotny zespół Sjӧgrena;  4) nefropatia hiperkalcemiczna;  5) nefropatia hipokaliemiczna.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -1220,7 +1220,7 @@ export const interna = [
         "questionText": "Kardiostymulatory wszczepialne oznaczane są trójliterowym kodem XYZ, w którym  poszczególne litery oznaczają:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -1249,7 +1249,7 @@ export const interna = [
         "questionText": "Wskaż stany kliniczne przebiegające z „jałowym ropomoczem”:  1) gruźlica dróg moczowych;  2) ostre polekowe cewkowo-śródmiąższowe zapalenie nerek;  3) zakażenie Chlamydia trachomatis;  4) nefropatia toczniowa;  5) zespół Sjӧgrena.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -1278,7 +1278,7 @@ export const interna = [
         "questionText": "U pacjentów przewlekle leczonych przeciwkrzepliwie antagonistami witaminy K (VKA)  należy zwracać uwagę na liczne interakcje z innymi lekami oraz pożywieniem. Wskaż  leki oraz produkty żywnościowe, które nasilają działanie VKA:  1) karbamazepina;  2) cyprofloksacyna;  3) amiodaron;  4) szpinak;  5) sok grejpfrutowy;  6) mesalazyna.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -1307,7 +1307,7 @@ export const interna = [
         "questionText": "U 30-letniego mężczyzny wystąpił kolkowy ból w okolicy lędźwiowej lewej z  krwiomoczem makroskopowym, dreszczami i gorączką 40 stopni C. Wskaż najbardziej  prawdopodobne rozpoznanie:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -1336,7 +1336,7 @@ export const interna = [
         "questionText": "Nadmierna podaż aktywnych preparatów witaminy D w przewlekłej chorobie nerek  może być niebezpieczna, ze względu na:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -1365,7 +1365,7 @@ export const interna = [
         "questionText": "Do oddziału intensywnej opieki kardiologicznej trafił pacjent z ostrą niewydolnością  serca w klasie II wg klasyfikacji Forrestera. Jaki rodzaj leczenia będzie najwłaściwszy?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -1394,7 +1394,7 @@ export const interna = [
         "questionText": "W przewlekłej chorobie nerek występuje predyspozycja do:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -1423,7 +1423,7 @@ export const interna = [
         "questionText": "W celu kwalifikacji chorego do nefrektomii z powodu wodonercza bez wywiadu  nawracających zakażeń, ale z opornym na leczenie nadciśnieniem tętniczym należy  wykonać:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -1452,7 +1452,7 @@ export const interna = [
         "questionText": "65-letni mężczyzna uskarża się na bóle stawów kolanowych, szczególnie podczas  aktywności fizycznej. Po odpoczynku ból ustępuje. W RTG stawów kolanowych w  projekcji AP uzyskano następujący obraz:  Wskaż przyczynę obserwowanych u pacjenta dolegliwości:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -1481,7 +1481,7 @@ export const interna = [
         "questionText": "Pacjentka lat 76 zgłasza trwającą od tygodnia biegunkę. Od ok. roku przewlekle zażywa    lanzoprazol w dawce 30 mg z powodu uporczywej zgagi. Ostatnio z powodu infekcji  dróg moczowych zażywała ciprofloksacynę i osłonowo probiotyki. W dalszej  diagnostyce należy wykluczyć:  1) chorobę trzewną;  2) przerost bakteryjny jelita cienkiego (SIBO);  3) mikroskopowe zapalenie jelita;  4) zakażenie Clostridium difficile;  5) chorobę uchyłkową jelita grubego.  Prawidłowa odpowiedź:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -1510,7 +1510,7 @@ export const interna = [
         "questionText": "Od którego leku należy rozpocząć leczenie nowo rozpoznanej, bezobjawowej cukrzycy  typu 2, jeżeli tylko nie ma przeciwwskazań do jego stosowania?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -1539,7 +1539,7 @@ export const interna = [
         "questionText": "U pacjenta l. 66, z napadem migotania przedsionków stwierdzono TSH 0,1 mIU/l (N:  0,27-4,2) i FT4 1,98 ng/dl (N: 0,7-1,7). Z wywiadu wiadomo, że pacjent przyjmuje  tyroksynę w dawce 100 µg/dobę z powodu rozpoznania niedoczynności tarczycy przed  3 latami. Wskaż optymalne postępowanie w zakresie zmiany leczenia choroby tarczycy:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -1568,7 +1568,7 @@ export const interna = [
         "questionText": "Do wskazań do wytworzenia przezżylnego śródwątrobowego zespolenia wrotno-  systemowego (TIPS) w przebiegu marskości wątroby nie należą:  1) encefalopatia wątrobowa;  2) nawracające krwawienie z żylaków przełyku i dna żołądka;  3) nawracające wodobrzusze;  4) zespół wątrobowo-nerkowy typu 2 z wodobrzuszem opornym na leczenie;  5) zespół wątrobowo-nerkowy typu 1.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -1597,7 +1597,7 @@ export const interna = [
         "questionText": "U chorego z zespołem Wolffa-Parkinsona-White’a (WPW) należy niezwłocznie wykonać  kardiowersję elektryczną migotania przedsionków (AF), gdy:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -1626,7 +1626,7 @@ export const interna = [
         "questionText": "Na ostre cewkowo-śródmiąższowe zapalenie nerek mogą wskazywać  współwystępujące z różną częstością objawy obejmujące:  1) tępy ból w okolicy lędźwiowej;    2) skąpomocz;  3) osutkę plamistogrudkową;  4) krwiomocz;  5) gorączkę.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -1655,7 +1655,7 @@ export const interna = [
         "questionText": "Białko monoklonalne (białko M) w szpiczaku plazmocytowym jest najczęściej  immunoglobuliną klasy:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -1684,7 +1684,7 @@ export const interna = [
         "questionText": "Czynnikiem określającym dynamiczny przebieg POChP jest:  1) wartość FEV1 chorego;  2) stopień nasilenia duszności wg MRC;  3) nałóg palenia papierosów;  4) częstość zaostrzeń choroby;  5) wiek chorego.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -1713,7 +1713,7 @@ export const interna = [
         "questionText": "40-letni chory na cukrzycę typu 1 zgłasza coraz częstsze niedocukrzenia, przez które  musiał zmniejszyć dawkę podawanej insuliny. Jaka może być przyczyna niedocukrzeń u  tego chorego?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -1742,7 +1742,7 @@ export const interna = [
         "questionText": "Wskaż fałszywe stwierdzenie dotyczące leczenia krwotoku z żylaków przełyku:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -1771,7 +1771,7 @@ export const interna = [
         "questionText": "Bezobjawowe zakażenie układu moczowego wymaga leczenia w ściśle określonych  sytuacjach klinicznych. Wskaż te sytuacje:  1) kobiety w ciąży;  2) biorcy przeszczepu nerki w pierwszych 6-12 miesiącach po zabiegu transplantacji;  3) pacjenci z cukrzycą;  4) przed planowaną przezcewkową resekcją gruczołu krokowego lub innymi zabiegami  urologicznymi na drogach moczowych;  5) chorzy z długotrwale utrzymywanym cewnikiem pęcherzowym.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -1800,7 +1800,7 @@ export const interna = [
         "questionText": "Do leków modyfikujących proces zapalny w reumatologii należą:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -1829,7 +1829,7 @@ export const interna = [
         "questionText": "Wskaż fałszywe stwierdzenie dotyczące zespołu nieadekwatnego wydzielania hormonu  antydiuretycznego (syndrome of inappropriate antidiuretic hormone secretion - SIADH):",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -1858,7 +1858,7 @@ export const interna = [
         "questionText": "28-letni mężczyzna zgłasza się do lekarza z powodu bólu w nadbrzuszu  promieniującego do pleców. Stężenie amylazy w surowicy krwi jest 10-krotnie wyższe    niż zakres normy. Jakie jest najbardziej prawdopodobne rozpoznanie?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -1887,7 +1887,7 @@ export const interna = [
         "questionText": "Do kryteriów klasyfikacyjnych choroby Stilla u dorosłych nie należy:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -1916,7 +1916,7 @@ export const interna = [
         "questionText": "W celu rozpoznania przewlekłej obturacyjnej choroby płuc oprócz analizy objawów  klinicznych należy wykonać badanie spirometryczne. Który z parametrów spirometrii  służy do rozpoznania tej choroby?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -1945,7 +1945,7 @@ export const interna = [
         "questionText": "W jakiej chorobie lub stanie klinicznym może wystąpić nabyta hemofilia A?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -1974,7 +1974,7 @@ export const interna = [
         "questionText": "Zespół Eisenmengera rozpoznany u 28-letniego chorego może być powikłaniem  nieskorygowanej wrodzonej wady serca, takiej jak:  1) ubytek w przegrodzie międzyprzedsionkowej;  2) ubytek w przegrodzie międzykomorowej;  3) anomalia Ebsteina;  4) koarktacja aorty;  5) przetrwały przewód tętniczy.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -2003,7 +2003,7 @@ export const interna = [
         "questionText": "Niedokrwistość z niedoboru żelaza należy leczyć poprzez podaż preparatów doustnych  żelaza przez okres około:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -2032,7 +2032,7 @@ export const interna = [
         "questionText": "Do leków mogących indukować nadciśnienie tętnicze nie należy/ą:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -2061,7 +2061,7 @@ export const interna = [
         "questionText": "42-letni chory, z cukrzycą typu 1 od 7. r.ż., zauważył wzrost wartości ciśnienia  skurczowego w pomiarach domowych do wartości 150-160 mmHg. W ciągu ostatnich  kilku lat przebył kilka zabiegów laseroterapii z powodu retinopatii proliferacyjnej. Od  kilku miesięcy budzi się w nocy 2-3 razy z powodu konieczności oddania moczu.  Występujące objawy z największym prawdopodobieństwem sugerują:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -2090,7 +2090,7 @@ export const interna = [
         "questionText": "Wskaż zdania prawdziwe dotyczące patogenezy i leczenia obrzęków w zespole  nerczycowym:  1) u większości chorych ze stężeniem albumin 2,0-3,0 g/l obrzęki przebiegają z  hiperwolemią i spowodowane są retencją sodu w kanalikach nerkowych;  2) u części chorych z hipoalbuminemią < 2,0 g/l obrzęki przebiegają z hipowolemią;  3) bez względu na mechanizm patogenetyczny u wszystkich chorych przed podaniem  leków moczopędnych należy przetoczyć 100 ml 20% albumin;  4) u chorych z hiperwolemią należy ograniczyć podaż sodu do 3-6 g NaCl na dobę;  5) zaleca się zwiększone dawki furosemidu podawanego dożylnie z powodu  hipoalbuminemii.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -2119,7 +2119,7 @@ export const interna = [
         "questionText": "Wskaż zdania prawdziwe dotyczące nefropatii kontrastowej:  1) nefropatia kontrastowa to ostre uszkodzenie nerek, które rozwija się w ciągu 7-10 dni  po podaniu dotętniczo środka kontrastowego;  2) czynnikiem ryzyka jest starszy wiek pacjenta;  3) czynnikiem ryzyka jest stosowanie diuretyków;  4) zapobieganie nefropatii kontrastowej polega na dożylnym nawodnieniu pacjentów z  grup ryzyka 0,9% roztworem NaCl;  5) u chorych z upośledzoną czynnością nerek należy zapobiegawczo przed i po  podaniu środka kontrastowego wykonać zabieg hemodializy.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -2148,7 +2148,7 @@ export const interna = [
         "questionText": "Wskaż wynik badania gazometrycznego krwi tętniczej, który świadczy o kwasicy  oddechowej niewyrównanej:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -2177,7 +2177,7 @@ export const interna = [
         "questionText": "2 3  2 3  2 3  2 3  2 3    Jakie rodzaje uszkodzenia nerek występują w przebiegu szpiczaka plazmocytowego?  1) amyloidoza AL;  2) ogniskowe segmentalne twardnienie kłębuszków nerkowych FSGS;  3) choroba złogów immunoglobulin monoklonalnych;  4) nefropatia wałeczkowa;  5) nefropatia błoniasta.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -2206,7 +2206,7 @@ export const interna = [
         "questionText": "Najczęściej występującą postacią mezangialnego kłębuszkowego zapalenia nerek jest:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -2235,7 +2235,7 @@ export const interna = [
         "questionText": "Kwasica metaboliczna w zaawansowanej przewlekłej chorobie nerek jest  spowodowana:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -2264,7 +2264,7 @@ export const interna = [
         "questionText": "Powikłaniem długoterminowej terapii inhibitorami pompy protonowej nie jest:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -2293,7 +2293,7 @@ export const interna = [
         "questionText": "U pacjenta l. 36 ze świeżo stwierdzonym nadciśnieniem tętniczym i cukrzycą typu 2,  skarżącego się na zmiany wyglądu twarzy i powiększenie stóp, w pierwszym rzędzie  należy wykonać oznaczenie:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -2322,7 +2322,7 @@ export const interna = [
         "questionText": "Które z czynników przyspieszają progresję przewlekłej choroby nerek?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -2351,7 +2351,7 @@ export const interna = [
         "questionText": "W zapisie EKG w przebiegu hipokaliemii obserwuje się:  1) wydłużenie odstępów PQ;  12    2) spłaszczenie załamków P;  3) poszerzenie zespołów QRS;  4) obniżenie odcinków ST;  5) wzrost amplitudy i szerokości załamków U.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -2380,7 +2380,7 @@ export const interna = [
         "questionText": "Do immunologicznych kryteriów rozpoznania tocznia rumieniowatego układowego nie  należy obecność przeciwciał:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -2409,7 +2409,7 @@ export const interna = [
         "questionText": "Do typowych objawów reumatycznych nieswoistych zapaleń jelit nie należy:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -2438,7 +2438,7 @@ export const interna = [
         "questionText": "Do klasycznych powikłań niesteroidowych leków przeciwzapalnych należą:    1) owrzodzenie błony śluzowej i krwawienia z przewodu pokarmowego;  2) powikłania sercowo-naczyniowe;  3) nadwrażliwość na światło;  4) uszkodzenie nerek;  5) wzrost aktywności enzymów wątrobowych.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -2467,7 +2467,7 @@ export const interna = [
         "questionText": "Do głośnego I tonu serca predysponuje:  1) szczupła sylwetka;  2) tachykardia;  3) niedomykalność zastawki mitralnej;  4) krótki odstęp PQ;  5) zawał serca.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -2496,7 +2496,7 @@ export const interna = [
         "questionText": "Objawy zespołu żyły głównej górnej mogą występować w przebiegu:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -2525,7 +2525,7 @@ export const interna = [
         "questionText": "Próba rozkurczowa służy do oceny odwracalności obturacji. Wykonuje się ją po inhalacji  leku rozkurczającego oskrzela. Do leków stosowanych w tym celu należą:  1) bromek ipratropium;  2) salbutamol lub fenoterol;  3) salmeterol;  4) formoterol;  5) klenbuterol.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -2554,7 +2554,7 @@ export const interna = [
         "questionText": "80-letnia pensjonariuszka domu opieki społecznej została przewieziona na izbę przyjęć  z powodu pogorszenia kontaktu, osłabienia siły kończyny dolnej prawej od około 5  godzin. Z wywiadu środowiskowego chora bez gorączki, bólów brzucha. W wykonanym  badaniu ogólnym moczu stwierdzono białkomocz 0,1 mg/dl, leukocyty 15-20 wpw z  obecnością licznych bakterii. CRP 10 ng/ml (n < 5 ng/ml), prawidłowa morfologia krwi,  eGFR 39 ml/min. Najbardziej prawdopodobną przyczyną dolegliwości jest:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -2583,7 +2583,7 @@ export const interna = [
         "questionText": "Typowe leczenie chorych z zespołem tzw. ostrego rozpadu nowotworu obejmuje:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -2612,7 +2612,7 @@ export const interna = [
         "questionText": "Do czynników ryzyka hiperglikemii w ciąży nie należą:  1) uprzednio przebyta cukrzyca ciążowa;  2) urodzenie noworodka z wadą rozwojową;  3) pierwsza ciąża;  4) ciąża > 35. r.ż.;  5) nadciśnienie tętnicze przed ciążą;  6) nadwaga przed ciążą.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -2641,7 +2641,7 @@ export const interna = [
         "questionText": "Do zaburzeń towarzyszących przewlekłej chorobie nerek zalicza się wszystkie poniżej  wymienione, z wyjątkiem:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -2670,7 +2670,7 @@ export const interna = [
         "questionText": "68-letni chory zgłosił się do Poradni Chorób Zakaźnych z rozpoznaniem przewlekłego  zapalenia wątroby typu C (PZW C), z potwierdzonym badaniem elastograficznym  włóknieniem F3. Dodatkowo chory cierpi na chorobę niedokrwienną serca. Choremu  powinno zostać zaproponowane następujące postępowanie, które będzie skutkowało  następującym rokowaniem:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -2699,7 +2699,7 @@ export const interna = [
         "questionText": "Przeciwwskazania do biopsji nerki obejmują:  1) ostrą niewydolność nerek wymagającą dializoterapii;  2) brak jednej nerki;  3) w badaniu usg nerki wielkości około 7 cm, warstwa korowa szerokości 5-7 mm;  4) ostre bakteryjne cewkowo-śródmiąższowe zapalenie nerek;  5) ostre polekowe cewkowo-śródmiąższowe zapalenie nerek.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -2728,7 +2728,7 @@ export const interna = [
         "questionText": "U 65-letniego palacza tytoniu wystąpił makroskopowy krwiomocz, bez towarzyszącego  bólu, a w badaniu USG stwierdzono litą zmianę (guz), średnicy ponad 4 cm w biegunie  lewej nerki. Jakie powinno być postępowanie?  1) obserwacja zmiany w badaniu USG powtarzanym co 6 miesięcy;  2) badanie ogólne moczu i cytologia moczu;  3) ocena czynności nerek, morfologia krwi, fosfataza zasadowa, stężenie wapnia;  4) badanie TK jamy brzusznej i miednicy oraz klatki piersiowej dla oceny stopnia  zaawansowania procesu nowotworowego;  5) nefrektomia częściowa lub radykalna w zależności od zaawansowania choroby.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -2757,7 +2757,7 @@ export const interna = [
         "questionText": "Do doustnych leków przeciwzakrzepowych należą wszystkie wymienione, z wyjątkiem:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -2786,7 +2786,7 @@ export const interna = [
         "questionText": "Pacjentka lat 28, po spożyciu dwóch lampek wina trafiła do szpitala z powodu bardzo  silnych, rozlanych bólów brzucha, nudności, wymiotów z towarzyszącym zaparciem.  Dodatkowo wystąpiła gorączka, wzmożona potliwość, trudności w oddawaniu moczu,  chora splątana, zalękniona, bez cech anemizacji. W diagnostyce różnicowej kluczowym    pytaniem będzie:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -2815,7 +2815,7 @@ export const interna = [
         "questionText": "Główne cechy laboratoryjne niedokrwistości chorób przewlekłych to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -2844,7 +2844,7 @@ export const interna = [
         "questionText": "Patogenem będącym najczęstszą przyczyną pozaszpitalnych zakażeń układu  moczowego jest:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -2873,7 +2873,7 @@ export const interna = [
         "questionText": "Które z poniższych badań służy do rozpoznania POChP?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -2902,7 +2902,7 @@ export const interna = [
         "questionText": "Do typowych objawów reumatoidalnego zapalenia stawów nie należy:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -2931,7 +2931,7 @@ export const interna = [
         "questionText": "82-letnia kobieta przyjmuje amlodypinę w dawce 5 mg na dobę i ramipril w dawce 5 mg  na dobę. Czuje się dobrze, nie ma chorób towarzyszących. Przy powtarzających się  wartościach ciśnienia tętniczego >160/85 mmHg, lekarz powinien:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -2960,7 +2960,7 @@ export const interna = [
         "questionText": "50-letni mężczyzna zgłasza się do szpitalnego oddziału ratunkowego z powodu  wymiotów trwających od 24 godzin. Pierwszym i niezwłocznym krokiem powinna być  dożylna podaż:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -2989,7 +2989,7 @@ export const interna = [
         "questionText": "U chorych z zespołem ostrego rozpadu nowotworu występuje w surowicy wzrost  stężenia:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -3018,7 +3018,7 @@ export const interna = [
         "questionText": "75-letni pacjent z kardiomiopatią niedokrwienną, po implantacji kardiowertera-  defibrylatora dwujamowego 5 lat temu, z nawracającymi gorączkami i stanami  zapalnymi dolnych dróg oddechowych od 6 miesięcy, zgłosił się do poradni  kardiologicznej z powodu nasilenia objawów prawokomorowej niewydolności serca.  Wskaż właściwe postępowanie:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -3047,7 +3047,7 @@ export const interna = [
         "questionText": "Która z wymienionych chorób reumatycznych przebiega ze zmianami skórnymi?  1) toczeń rumieniowaty układowy;  2) twardzina układowa;  3) polimialgia reumatyczna;  4) zapalenie naczyń związane z IgA (Henocha i Schönleina).  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -3076,7 +3076,7 @@ export const interna = [
         "questionText": "52-letni chory zgłosił się na izbę przyjęć w godzinach porannych z powodu osłabienia.  Pacjent miał biegunkę i wymioty przez całą noc, podobnie jak jego żona kilka dni temu.  Nadal nie jest w stanie przyjąć żadnych płynów doustnie. U pacjenta stwierdza się  suchą błonę śluzową na języku, akcja serca jest miarowa i wynosi 95/minutę, a  ciśnienie tętnicze wynosi 90/60 mm Hg. Pierwszym krokiem terapeutycznym powinno  być podanie dożylne:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -3105,7 +3105,7 @@ export const interna = [
         "questionText": "81-letni chory został przyjęty do szpitala z powodu duszności i obrzęków obu kończyn  dolnych. Jego ciśnienie tętnicze wynosi 120/70 mm Hg, stężenie kreatyniny w surowicy  krwi jest prawidłowe a stężenie sodu w osoczu krwi wynosi 130 mmol/l. Wskaż pierwszy  krok w leczeniu:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -3134,7 +3134,7 @@ export const interna = [
         "questionText": "Wskaż nieprawdziwe stwierdzenie dotyczące opornego nadciśnienia tętniczego:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -3163,7 +3163,7 @@ export const interna = [
         "questionText": "U chorego z filtracją kłębuszkową 25 ml/min/1,73 m  i kaliemią 6,2 mmol/l, w badaniu  fizykalnym stwierdza się: akcja serca 68/min, ciśnienie tętnicze 145/80 mmHg, cechy  nasilonej niewydolności serca. Jako leczenie pierwszego rzutu należy zastosować:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -3192,7 +3192,7 @@ export const interna = [
         "questionText": "Mężczyzna lat 51, z astmą oskrzelową zgłosił się do lekarza z powodu powtarzających  się epizodów uwięźnięcia kęsa pokarmowego, uczucia zgagi oraz bólów zamostkowych  nasilających się po posiłku, niemających związku z wysiłkiem fizycznym. Ze względu na  obraz kliniczny pacjentowi należy zalecić w pierwszej kolejności:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -3221,7 +3221,7 @@ export const interna = [
         "questionText": "Przyczyną poszerzenia układu kielichowo-miedniczkowego jednej nerki zwykle nie jest:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -3250,7 +3250,7 @@ export const interna = [
         "questionText": "Które z poniższych stwierdzeń dotyczących chorego w ostrej fazie udaru krwotocznego  mózgu są poprawne?  1) nadnamiotowy krwiak wewnątrzmózgowy w każdym przypadku powinien być leczony  operacyjnie;  2) u każdego chorego z krwotokiem mózgowym skurczowe ciśnienie tętnicze krwi  powinno zostać szybko obniżone, optymalnie już w pierwszej dobie do wartości poniżej  180 mmHg;  3) krwotoki w tylnej jamie czaszki w przypadku pogarszania się stanu neurologicznego,  jak narastanie objawów móżdżkowych, wodogłowie lub narastające zaburzenia  świadomości, wymagają pilnej interwencji neurochirurgicznej;  4) u każdego chorego z krwotokiem śródmiąższowym mózgu należy włączyć  profilaktycznie lek przeciwpadaczkowy (optymalnie kwas walproinowy w dawce 2 razy    dziennie 500 mg - 800 mg) ze względu na wysokie ryzyko wystąpienia napadów  padaczkowych;  5) w leczeniu obrzęku mózgu u chorych z krwotokiem śródmiąższowym stosuje się  najczęściej dożylnie środki osmotyczne jak mannitol z furosemidem lub sól (NaCl)  hipertoniczną (najczęściej 3%).  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -3279,7 +3279,7 @@ export const interna = [
         "questionText": "Nowotwory o nieznanym umiejscowieniu pierwotnym:  1) stanowią 3-10% wszystkich nowotworów złośliwych;  2) nie powinny być poddawane szczegółowej diagnostyce, ponieważ jedynie w około  5% przypadków można zidentyfikować pierwotną zmianę;  3) najczęściej mają utkanie raka gruczołowego;  4) są częstsze u kobiet;  5) mogą być wskazaniem do wykonania badania pozytonowej tomografii emisyjnej.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -3308,7 +3308,7 @@ export const interna = [
         "questionText": "W której z wymienionych lokalizacji najczęściej występuje infekcja bakteryjna u chorych  z niewyrównaną marskością wątroby?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -3337,7 +3337,7 @@ export const interna = [
         "questionText": "W przypadku nagłej duszności u 25-letniej kobiety w 28. tygodniu ciąży, u której w 5. - 6.  r.ż. rozpoznano astmę, która od co najmniej 15 lat nie miała napadów astmy i u której  stwierdza się przedmiotowo szmer oddechowy pęcherzykowy, a czynność serca wynosi  130/min. należy:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -3366,7 +3366,7 @@ export const interna = [
         "questionText": "U 26-letniej pacjentki z rozpoznanym zapaleniem cewki moczowej w przebiegu  zakażenia Neisseria gonorrhoeae należy zastosować:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -3395,7 +3395,7 @@ export const interna = [
         "questionText": "Do lekarza pierwszego kontaktu zgłasza się pacjent, u którego w badaniu  przedmiotowym podczas osłuchiwania serca zaobserwowano szmer rozkurczowy przy  lewym brzegu mostka promieniujący do punktu Erba, nasilający się w pozycji siedzącej  z pochyleniem do przodu. Co należy podejrzewać w tej sytuacji?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -3424,7 +3424,7 @@ export const interna = [
         "questionText": "Obliczenie klirensu kreatyniny przy pomocy wzoru MDRD wymaga znajomości:  1) wagi chorego;  2) płci chorego;  3) wieku chorego;  4) stężenia kreatyniny w surowicy;  5) stężenia kreatyniny w moczu;  6) dobowej objętości moczu.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -3453,7 +3453,7 @@ export const interna = [
         "questionText": "Najczęstszą przyczyną hiperandrogenizmu u kobiet jest:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -3482,7 +3482,7 @@ export const interna = [
         "questionText": "Cechą charakterystyczną zespołów mielodysplastycznych jest:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -3511,7 +3511,7 @@ export const interna = [
         "questionText": "Według ISCD ocena gęstości mineralnej tkanki kostnej (BMD) jest wskazana w  następujących przypadkach, z wyjątkiem:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -3540,7 +3540,7 @@ export const interna = [
         "questionText": "Najczęstszą etiologię ropnego zapalenia opon mózgowo-rdzeniowych u dorosłych  pacjentów stanowią:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -3569,7 +3569,7 @@ export const interna = [
         "questionText": "76-letni pacjent palacz, z nadciśnieniem tętniczym, cukrzycą typu 2 od lat, zgłosił się do  SOR z powodu spadku tolerancji wysiłku, nasilonej duszności, obrzęków kończyn  dolnych nasilających się od 3 tygodni. Chory zgłasza, że dolegliwości pojawiły się po  epizodzie bardzo silnego bólu w klatce piersiowej przed kilkoma tygodniami. W badaniu  przedmiotowym trzeszczenia u podstawy płuc, obrzęk ciastowaty kończyn dolnych. U    powyższego chorego najbardziej prawdopodobną przyczyną dolegliwości jest:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -3598,7 +3598,7 @@ export const interna = [
         "questionText": "Przy wyborze leczenia chemicznego raka płuca znaczenie mają:  1) stan kliniczny chorego;  2) stopień zaawansowania choroby;  3) uszkodzenia narządowe;  4) typ histologiczny raka płuca;  5) rodzinny wywiad nowotworowy.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -3627,7 +3627,7 @@ export const interna = [
         "questionText": "Wskaż prawdziwe stwierdzenie dotyczące niealkoholowego stłuszczeniowego  zapalenia wątroby (NASH):",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -3656,7 +3656,7 @@ export const interna = [
         "questionText": "84-letni chory został przywieziony przez zespół ratownictwa medycznego do  szpitalnego oddziału ratunkowego z powodu nagłego pogorszenia stanu ogólnego,  obniżenia ciśnienia tętniczego, majaczenia, a następnie utraty kontaktu z otoczeniem.  Chory przewlekle cewnikowany z powodu łagodnego rozrostu prostaty, przebywał w  zakładzie opiekuńczo-leczniczym z powodu zespołu otępiennego. W worku widoczny  mętny mocz. W celu potwierdzenia urosepsy do badań bakteriologicznych należy  pobrać:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -3685,7 +3685,7 @@ export const interna = [
         "questionText": "U chorego z klinicznymi objawami nadczynności tarczycy można spodziewać się  następujących odchyleń w laboratoryjnych badaniach dodatkowych:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -3714,7 +3714,7 @@ export const interna = [
         "questionText": "Pacjentka lat 68 zgłasza od kilkunastu tygodni kurczowe bóle brzucha, wodnistą    biegunkę do 4-8 stolców/dobę oraz wzdęcia. W tym okresie schudła około 4 kg.  Okresowo z powodu dolegliwości bólowych w odcinku lędźwiowym kręgosłupa  zażywała diklofenak i osłonowo IPP. Rutynowe badania laboratoryjne w granicach  normy. W ileokolonoskopii bez odchyleń od normy. W bioptatach pobranych z prawej  połowy jelita grubego stwierdzono naciek limfocytów i plazmocytów w blaszce właściwej  błony śluzowej. Najbardziej prawdopodobna przyczyna zgłaszanych dolegliwości to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -3743,7 +3743,7 @@ export const interna = [
         "questionText": "Wskazaniem do biopsji wątroby nie jest:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -3772,7 +3772,7 @@ export const interna = [
         "questionText": "Kryteria rozpoznania przewlekłego zapalenia wątroby typu C stanowią:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -3801,7 +3801,7 @@ export const interna = [
         "questionText": "Sinica obwodowa nie jest powodowana przez:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -3830,7 +3830,7 @@ export const interna = [
         "questionText": "72-letnia kobieta w 4. stadium przewlekłej choroby nerek, z uporczywym bólem  kręgosłupa została przyjęta na oddział nefrologiczny z podejrzeniem choroby złogów  immunoglobulin monoklonalnych w przebiegu szpiczaka plazmocytowego. Wskaż  badania, które pozwolą na potwierdzenie tego podejrzenia:  1) obecność plazmocytów w szpiku > 10%;  2) nerczycowy białkomocz;  3) obecność monoklonalnych immunoglobulin w surowicy lub moczu;  4) krwinkomocz;  5) złogi łańcuchów lekkich lub ciężkich immunoglobulin w kłębuszkach nerkowych.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -3859,7 +3859,7 @@ export const interna = [
         "questionText": "Wynik badania morfologii krwi: WBC 51,2 G/L, LY 2,1 G/L, MO 5,0 G/L,NE 43,2 G/L, EO  0,4 G/L, BA 0,5 G/L, RBC 4,1 T/L, Hgb 12,8 g/dL, MCV 88 fL, PLT 335 G/L sugeruje  rozpoznanie:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -3888,7 +3888,7 @@ export const interna = [
         "questionText": "Która z wymienionych nie należy do cech typowego bólu w dławicy piersiowej?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -3917,7 +3917,7 @@ export const interna = [
         "questionText": "70-letni chory zgłosił się do lekarza rodzinnego z powodu nasilającej się duszności  wysiłkowej oraz nawracających omdleń. W wywiadzie nadciśnienie tętnicze oraz  przerost prostaty. W badaniu fizykalnym lekarz stwierdził wyraźny szmer skurczowy w II  przestrzeni międzyżebrowej prawej promieniujący do szyi, nad polami płucnymi szmer  pęcherzykowy prawidłowy oraz miernie nasilone obrzęki podudzi. W EKG bradykardia  zatokowa 55/min z blokiem przedsionkowo-komorowym I stopnia. Jakie powinno być  dalsze postępowanie z pacjentem?  1) pacjent powinien zostać skierowany do kardiologa z podejrzeniem niedomykalności  mitralnej z wtórną niewydolnością serca;  2) pacjent powinien zostać skierowany do kardiologa z podejrzeniem stenozy aortalnej  z wtórną niewydolnością serca;  3) z uwagi na obecność bloku przedsionkowo-komorowego I stopnia oraz wywiad  omdleń, pacjent powinien mieć implantowany stymulator serca;  4) w celu potwierdzenia wady, oceny jej istotności oraz oceny funkcji skurczowej lewej  komory serca wskazane jest wykonanie przezklatkowego badania  echokardiograficznego;  5) wskazane jest wykonanie badania Holter EKG w celu diagnostyki omdleń.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -3946,7 +3946,7 @@ export const interna = [
         "questionText": "Do klasycznych objawów skórnych i śluzówkowych reaktywnego zapalenia stawów  nabytego drogą płciową należą:  1) zmiany łuszczycopodobne na podeszwowej powierzchni stóp i dłoniowej rąk;  2) rumień guzowaty;  3) afty na błonie śluzowej jamy ustnej;  4) zaczerwienienia skóry palców (palce kiełbaskowate);  5) rumień wędrujący.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -3975,7 +3975,7 @@ export const interna = [
         "questionText": "Za kaszel przewlekły uważa się:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -4004,7 +4004,7 @@ export const interna = [
         "questionText": "22-letni mężczyzna znalazł się na izbie przyjęć z powodu stanów gorączkowych oraz    bólu stawów kolanowych i nadgarstkowych. Na skórze tułowia i ud stwierdzono  wysypkę plamisto-grudkową, która nie powodowała świądu. Podobne objawy wystąpiły  3 miesiące wcześniej. Pacjent negował zażywanie jakichkolwiek leków lub suplementów  diety. Aktywność ALT wynosiła 160 IU/L, AST 90 IU/L, a stężenie ferrytyny 750 μg/L  (norma < 200 μg/L). Wskaźnik wysycenia transferyny był prawidłowy. W badaniu USG  jamy brzusznej stwierdzono powiększenie wątroby i śledziony. Jakie jest najbardziej  prawdopodobne rozpoznanie?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -4033,7 +4033,7 @@ export const interna = [
         "questionText": "Najczęstszy mechanizm niedomykalności trójdzielnej to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -4062,7 +4062,7 @@ export const interna = [
         "questionText": "Wskaż prawidłowe postępowanie u pacjenta chorującego na cukrzycę typu 2  stosującego gliklazyd o przedłużonym działaniu, u którego pojawiły się poty, osłabienie  oraz drżenie rąk, a stężenie glukozy zmierzone przy pomocy glukometru wynosiło 61  mg/dl:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -4091,7 +4091,7 @@ export const interna = [
         "questionText": "Do kryteriów rozpoznania polimialgii reumatycznej nie należy:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -4120,7 +4120,7 @@ export const interna = [
         "questionText": "Pacjentka lat 72 przyjęta do szpitala z niedowładem połowiczym prawostronnym, który -  jak wynika z wywiadu - wystąpił przed 3 godzinami. Wykonane badanie tomografii  komputerowej mózgowia nie wykazało odchyleń od stanu prawidłowego. Badanie  ultrasonograficzne duplex tętnic szyjnych, kręgowych i wewnątrzczaszkowych wykazało  zwężenie tętnicy szyjnej wewnętrznej lewej rzędu 90-95% oraz prawej rzędu 50%.  Wskaż dalsze postępowanie:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -4149,7 +4149,7 @@ export const interna = [
         "questionText": "W leczeniu ciężkiego (stopień III) nadciśnienia tętniczego w przewlekłej chorobie nerek  u chorych ze znacznym białkomoczem i obrzękami obwodowymi oraz hiperkaliemią 6,6  mmol/l i filtracją kłębuszkową < 30 ml/min/1,73 m  w pierwszej kolejności należy  zastosować:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -4178,7 +4178,7 @@ export const interna = [
         "questionText": "82-letni pacjent został przywieziony na izbę przyjęć z powodu zaburzeń świadomości  nasilających się od dnia poprzedniego. W badaniach dodatkowych stwierdzono  stężenie sodu w surowicy 122 mmol/l, potasu 3,9 mmol/l, stężenie kreatyniny 1,6  mg/ml. W leczeniu w pierwszej kolejności należy zastosować:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -4207,7 +4207,7 @@ export const interna = [
         "questionText": "Stwierdzenie w płynie stawowym licznych granulocytów obojętnochłonnych i moczanów  sodowych wskazuje na rozpoznanie:  2  3",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -4236,7 +4236,7 @@ export const interna = [
         "questionText": "Który typ nowotworu przełyku jest powikłaniem achalazji?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -4265,7 +4265,7 @@ export const interna = [
         "questionText": "Autoprzeciwciała biorące udział w patogenezie pierwotnej nefropatii błoniastej to  przeciwciała:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -4294,7 +4294,7 @@ export const interna = [
         "questionText": "30-letni mężczyzna zgłosił się do SOR z powodu gorączki 38 °C, zapalenia gardła,  wysypki na skórze i uogólnionego powiększenia węzłów chłonnych, limfopenii. W  wywiadzie liczne ryzykowne zachowania seksualne oraz przebyta kiła. Należy w tej  sytuacji podjąć diagnostykę w kierunku:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -4323,7 +4323,7 @@ export const interna = [
         "questionText": "Do przewlekłych zapaleń stawów nie należy:  1) reumatoidalne zapalenie stawów;  2) łuszczycowe zapalenie stawów;  3) zesztywniające zapalenie stawów kręgosłupa;  4) choroba zwyrodnieniowa stawów;  5) łokieć tenisisty.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -4352,7 +4352,7 @@ export const interna = [
         "questionText": "Chora lat 60, paląca papierosy, leczona przewlekle z powodu cukrzycy typu 2 i  nadciśnienia tętniczego 2-go stopnia, z wywiadem utraty 5 kg masy ciała w ciągu  ostatnich 4 miesięcy, zgłosiła się do lekarza rodzinnego z powodu dyskomfortu w klatce  piersiowej, tachykardii i duszności wysiłkowej. W dniu poprzedzającym, po powrocie z  pracy (zatrudnienie: kasjer-sprzedawca), w której miała miejsce sytuacja stresowa,  wystąpił ból w klatce piersiowej trwający 15-30 minut, z krótkotrwałym zasłabnięciem,  bez utraty przytomności. W różnicowaniu przyczyn powyższych dolegliwości należy  uwzględnić:  1) kardiomiopatię z niescalenia mięśnia lewej komory;  2) kardiomiopatę katecholaminową;  3) zawał mięśnia sercowego;  4) ostry zespół aortalny;  5) zatorowość płucną.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -4381,7 +4381,7 @@ export const interna = [
         "questionText": "Wskaż fałszywe stwierdzenie dotyczące nadciśnienia złośliwego:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -4410,7 +4410,7 @@ export const interna = [
         "questionText": "72-letnia kobieta zgłasza się do lekarza z powodu bólu obu kolan od ponad roku. Ból  nasila się przy chodzeniu i ustępuje przy odpoczynku. Kobieta skarży się również na  sztywność stawów kolanowych, szczególnie, gdy posiedzi dłuższą chwilę. Jakie jest  najbardziej prawdopodobne rozpoznanie u tej kobiety?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -4439,7 +4439,7 @@ export const interna = [
         "questionText": "Usunięcie śledziony z powodu jej pourazowego pęknięcia, u osoby zdrowej:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -4468,7 +4468,7 @@ export const interna = [
         "questionText": "Wskaż fałszywe zdanie dotyczące bloku prawej odnogi pęczka Hisa (RBBB):",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -4497,7 +4497,7 @@ export const interna = [
         "questionText": "25-letnia kobieta zgłasza się w 20. tygodniu ciąży na badanie prenatalne. Zmierzone u  niej ciśnienie tętnicze wynosi 170/100 mmHg. Który z leków powinien zostać zlecony tej  chorej?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -4526,7 +4526,7 @@ export const interna = [
         "questionText": "56-letni chory zgłosił się do lekarza z powodu osłabienia, utraty masy ciała, częstego  oddawania moczu, suchości w ustach i nadmiernego pragnienia. Zmierzone stężenie  glukozy w osoczu krwi wynosiło 264 mg/dl. Wskaż właściwe postępowanie:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -4555,7 +4555,7 @@ export const interna = [
         "questionText": "U chorego z dusznością stwierdzono w izbie przyjęć wysokie stężenie NT-proBNP.  Która z wymienionych niżej przyczyn duszności jest w świetle tego wyniku najmniej  prawdopodobna?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -4584,7 +4584,7 @@ export const interna = [
         "questionText": "U 25-letniej pacjentki podczas hospitalizacji stwierdzono stężenie TSH 0,1 mIU/l. Jak  należy zinterpretować ten wynik?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -4613,7 +4613,7 @@ export const interna = [
         "questionText": "U 45-letniego mężczyzny w badaniu ogólnym moczu stwierdzono białkomocz,  erytrocyturię i wałeczki erytrocytarne. Najbardziej prawdopodobną przyczyną jest:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -4642,7 +4642,7 @@ export const interna = [
         "questionText": "Pilnym wskazaniem do rozpoczęcia przewlekłego leczenia nerkozastępczego -  dializoterapii jest:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -4671,7 +4671,7 @@ export const interna = [
         "questionText": "Podczas leczenia acenokumarolem/warfaryną dawkę leku ustala się na podstawie  badania:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -4700,7 +4700,7 @@ export const interna = [
         "questionText": "Do typowych objawów dny moczanowej nie należy/ą:  2  2  2  2  2",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -4729,7 +4729,7 @@ export const interna = [
         "questionText": "Wskaż prawdziwe stwierdzenie dotyczące objawów klinicznych u chorych z wadami  serca:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -4758,7 +4758,7 @@ export const interna = [
         "questionText": "„Łatwe dawkowanie, nie wywołują hipoglikemii (stosowane w monoterapii) ani przyrostu  masy ciała; istnieją dowody wskazujące na zmniejszenie ryzyka zdarzeń sercowo-  naczyniowych i zgonu u chorych, a także opóźnienie rozwoju nefropatii cukrzycowej” -  wymienione zalety dotyczą:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -4787,7 +4787,7 @@ export const interna = [
         "questionText": "Pacjentka lat 53 została przyjęta do szpitala z powodu narastających od kilku dni bólów    głowy, gorączki ( 38,8 °C), nudności. W badaniu przedmiotowym stwierdzono apatię i  senność, sztywność karku na 3 palce, objaw Kerniga. Wykonano badanie płynu  mózgowo-rdzeniowego, gdzie stwierdzono: płyn mętny opalizujący, stężenie białka 220  mg/dl (0,22 g/l), cytozę 390 krwinek białych na mm  (w tym 70% granulocytów),  stężenie glukozy 40 mg/dl (2,22 mmol/l); natomiast stężenie glukozy w surowicy  wynosiło w tym czasie 100 mg/dl (5,55 mmol/l). W takiej sytuacji klinicznej w pierwszej  dobie po przyjęciu na oddział szpitalny należy:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -4816,7 +4816,7 @@ export const interna = [
         "questionText": "Czynnikiem ryzyka przewlekłego zapalenia trzustki nie jest:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -4845,7 +4845,7 @@ export const interna = [
         "questionText": "Aplazja szpiku charakteryzuje się:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -4874,7 +4874,7 @@ export const interna = [
         "questionText": "Wskaż prawdziwe stwierdzenie dotyczące leczenia pierwszego zachorowania na lekką  postać rzekomobłoniastego zapalenia jelit:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -4903,7 +4903,7 @@ export const interna = [
         "questionText": "Wskaż wynik badania gazometrycznego odpowiadający rozpoznaniu zaostrzenia  przewlekłej hiperkapnicznej niewydolności oddechowej:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -4932,7 +4932,7 @@ export const interna = [
         "questionText": "Wskaż prawdziwe stwierdzenia dotyczące postaci autosomalnej dominującej  zwyrodnienia wielotorbielowatego nerek (ADPKD):  1) ADPKD jest najczęściej występującą genetycznie uwarunkowaną chorobą nerek;  2 2 3 2  2 2 3 2  2 2 3 2  2 2 3 2  2 2 3 2    2) torbiele wątroby są częstą manifestacją pozanerkową ADPKD;  3) w przebiegu ADPKD znacznie częściej niż w populacji ogólnej rozwija się rak  jasnokomórkowy nerki;  4) w spowalnianiu powiększania się torbieli skuteczny okazał się antagonista receptora  wazopresynowego V2;  5) lekami pierwszego wyboru w leczeniu nadciśnienia tętniczego są blokery kanału  wapniowego.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -4961,7 +4961,7 @@ export const interna = [
         "questionText": "28-letni mężczyzna skarży się na występujące od 5 lat wzdęcia po spożyciu produktów  mlecznych. Wskaż najbardziej właściwe postępowanie:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -4990,7 +4990,7 @@ export const interna = [
         "questionText": "Do gabinetu zgłasza się 47-letnia kobieta, która przybrała na wadze 10 kg w ciągu  ostatnich 6 tygodni. Kobieta czuje się cały czas głodna. Zdarzają się chwile, że nie  pamięta co działo się kilka minut wcześniej. Najbardziej prawdopodobnym  rozpoznaniem, które należy wykluczyć w pierwszej kolejności jest:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -5019,7 +5019,7 @@ export const interna = [
         "questionText": "Wybór leków u chorych na POChP uzależnia się:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -5048,7 +5048,7 @@ export const interna = [
         "questionText": "W ostrym okresie zatorowości płucnej w leczeniu znajdują zastosowanie następujące  leki, z wyjątkiem:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -5077,7 +5077,7 @@ export const interna = [
         "questionText": "W leczeniu pierwszego rzutu reaktywnego zapalenia stawów powinno zastosować się:  1) niesteroidowe leki przeciwzapalne;  2) sulfasalazynę;  3) glikokortykosteroidy;  4) antybiotyki;  5) leki biologiczne.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -5106,7 +5106,7 @@ export const interna = [
         "questionText": "46-letnia kobieta zgłasza się do lekarza z powodu bólów stawów obu dłoni i  nadgarstków utrzymujących się od dwóch miesięcy. Skarży się na sztywność tych  stawów rano po wstaniu z łóżka, trwającą ponad godzinę. Najbardziej prawdopodobnym  rozpoznaniem u tej kobiety, które należy wykluczyć w pierwszej kolejności, jest:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -5135,7 +5135,7 @@ export const interna = [
         "questionText": "Do objawów osteomalacji powodowanej niedoborem witaminy D należą poniższe, z  wyjątkiem:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -5164,7 +5164,7 @@ export const interna = [
         "questionText": "Który z poniższych leków nie zwiększa ryzyka wystąpienia cukrzycy typu 2?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -5193,7 +5193,7 @@ export const interna = [
         "questionText": "Wskaż fałszywe stwierdzenie dotyczące autoimmunologicznego zapalenia trzustki:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -5222,7 +5222,7 @@ export const interna = [
         "questionText": "U 40-letniej kobiety wystąpiło ostre uszkodzenie nerek z bezmoczem. Które z  wymienionych parametrów są wskazaniem do pilnego rozpoczęcia leczenia  hemodializą?  1) przewodnienie;  2) pH: 7,2, niedobór zasad: 16 mmol/l;  3) stężenie potasu: 7,4 mmol/l;  4) stężenie mocznika: 180 mg/dl;  5) stężenie kreatyniny: 7,2 mg/dl.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -5251,7 +5251,7 @@ export const interna = [
         "questionText": "Bronchoskopia u osoby z podejrzeniem raka płuca:  1) jest jednym z podstawowych badań;  2) powinna dotyczyć wyłącznie zmian położonych obwodowo;  3) może być połączona z pobraniem materiału tkankowego do badania histologicznego;  4) umożliwia pobranie materiału do badania cytologicznego;    5) może być wykonana wyłącznie u osób z prawidłowymi wskaźnikami wydolności  oddechowej.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -5280,7 +5280,7 @@ export const interna = [
         "questionText": "72-letni pacjent ma kołatanie serca od 3 dni, odczuwa ból w klatce piersiowej i  duszność. Nigdy wcześniej nie leczył się kardiologicznie. HR 150/min, RR 100/60  mmHg, SaO  96% przy tlenoterapii z przepływem O  10 L/min. W badaniu  przedmiotowym trzeszczenia u podstaw obu płuc. EKG (jak w załączeniu). Wskaż  optymalne leczenie poza podaniem heparyny:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -5309,7 +5309,7 @@ export const interna = [
         "questionText": "Które z poniższych stwierdzeń dotyczących pourazowych krwiaków namózgowych nie  jest prawdziwe?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -5338,7 +5338,7 @@ export const interna = [
         "questionText": "24-letni mężczyzna został przywieziony do szpitalnego oddziału ratunkowego z powodu  śpiączki. W badaniu fizykalnym stwierdza się niskie ciśnienie tętnicze i tachykardię a w  badaniach laboratoryjnych: glukozę w osoczu krwi 432 mg/dl, pH 7,1, HCO  9 mmol/l,  Na 141 mmol/l, K 6,1 mmol/l, kreatyninę w surowicy krwi 106 µmol/l (1,2 mg/dl). Jakie  jest najbardziej prawdopodobne rozpoznanie?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -5367,7 +5367,7 @@ export const interna = [
         "questionText": "68-letni chory zgłasza się do lekarza z powodu kaszlu występującego od 2 miesięcy.  Pacjent pali jedną paczkę papierosów dziennie od 50 lat. W badaniu fizykalnym nie  stwierdza się żadnych nieprawidłowości. Jaki powinien być kolejny krok diagnostyczny?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -5396,7 +5396,7 @@ export const interna = [
         "questionText": "Zespół żyły głównej górnej:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -5425,7 +5425,7 @@ export const interna = [
         "questionText": "U 48-letniego mężczyzny zawał serca z uniesieniem odcinka ST ściany dolnej (STEMI)  można rozpoznać w przypadku wystąpienia typowych dolegliwości bólowych w klatce  piersiowej oraz przetrwałego uniesienia odcinka ST w punkcie J o ≥ 0,1 mV  w odprowadzeniach:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -5454,7 +5454,7 @@ export const interna = [
         "questionText": "44-letnia kobieta zgłasza się do lekarza z powodu sztywności porannej w dłoniach,  która występuje od kilku miesięcy. Sztywność ta trwa zwykle powyżej jednej godziny.  Jaka jest najbardziej prawdopodobna przyczyna tych objawów?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -5483,7 +5483,7 @@ export const interna = [
         "questionText": "Jednoczesne przedłużenie czasu protrombinowego (PT) i czasu częściowej  tromboplastyny po aktywacji (APTT) jest charakterystyczne dla:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -5512,7 +5512,7 @@ export const interna = [
         "questionText": "Przyczyną izolowanego nadciśnienia tętniczego nie jest:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -5541,7 +5541,7 @@ export const interna = [
         "questionText": "Jakich korekt najczęściej wymaga dawkowanie insuliny u chorego na cukrzycę typu 1  wraz z postępem przewlekłej choroby nerek do schyłkowej choroby nerek?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -5570,7 +5570,7 @@ export const interna = [
         "questionText": "40-letnia pacjentka ze świeżo rozpoznanym nadciśnieniem tętniczym, leczona od 2  miesięcy amlodypiną oraz indapamidem zgłosiła się na wizytę kontrolną. Ciśnienie  tętnicze 120/80 mmHg. W wywiadzie chora podaje, że czuje się osłabiona oraz niepokoi  ją, że ostatnio oddaje stolec 1x/tydzień. W pierwszej kolejności należy zalecić:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -5599,7 +5599,7 @@ export const interna = [
         "questionText": "Który z wymienionych objawów nie należy do zespołu Zollinger-Ellisona?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -5628,7 +5628,7 @@ export const interna = [
         "questionText": "Wskaż fałszywe stwierdzenie dotyczące stosowania pętlowych leków moczopędnych u  pacjentów z nadciśnieniem tętniczym w przewlekłej chorobie nerek:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -5657,7 +5657,7 @@ export const interna = [
         "questionText": "Do objawów klinicznych przewlekłej (schyłkowej) niewydolności nerek wskazujących na  konieczność rozpoczęcia leczenia nerkozastępczego (dializoterapii) nie należy:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -5686,7 +5686,7 @@ export const interna = [
         "questionText": "Który z poniższych opisów charakteryzuje tętno dwubitne?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -5715,7 +5715,7 @@ export const interna = [
         "questionText": "Rozpoznanie niedokrwistości z niedoboru żelaza, u poza tym bezobjawowego 75-  letniego mężczyzny, powinno skłaniać do wykluczenia u niego raka:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -5744,7 +5744,7 @@ export const interna = [
         "questionText": "U wszystkich chorych z przewlekłym zespołem wieńcowym, niezależnie od ryzyka  sercowo-naczyniowego, obecności chorób współistniejących i objawów  niedokrwiennych, celem poprawy rokowania zaleca się leczenie:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -5773,7 +5773,7 @@ export const interna = [
         "questionText": "Do izby przyjęć zgłosiła się z powodu urazu głowy 44-letnia kobieta chorująca od 20 lat  na toczeń układowy, bez innych dolegliwości, przyjmująca na stałe 10 mg/d prednizonu  oraz 50 mg/d azatiopryny. W badaniu ogólnym moczu stwierdzono obecność białka 0,1  mg/dl, leukocyty zalegające pole widzenia oraz liczne bakterie. Pacjentce tej należy  zalecić:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -5802,7 +5802,7 @@ export const interna = [
         "questionText": "Wskaż cechę charakterystyczną dla przewlekłej białaczki limfocytowej:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -5831,7 +5831,7 @@ export const interna = [
         "questionText": "U 45-letniej aktywnej zawodowo kobiety rozpoznano nadciśnienie tętnicze (wartości  ciśnienia w pomiarach domowych 160/100 mmHg). W początkowej terapii należy  zastosować:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -5860,7 +5860,7 @@ export const interna = [
         "questionText": "W leczeniu chorych na drobnokomórkowego raka płuca najmniejsze zastosowanie ma:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -5889,7 +5889,7 @@ export const interna = [
         "questionText": "Na izbę przyjęć zgłosił się 72-letni mężczyzna z powodu trwających od dwóch dni  wymiotów i biegunki. Zmierzone ciśnienie wynosiło 90/50 mmHg. Chory przyjmuje  przewlekle ramipril i indapamid z powodu nadciśnienia tętniczego. Jakie jest prawidłowe  postępowanie w tym przypadku?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -5918,7 +5918,7 @@ export const interna = [
         "questionText": "Który z objawów nie pasuje do obrazu klinicznego sarkoidozy?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -5947,7 +5947,7 @@ export const interna = [
         "questionText": "Wskazaniami do leczenia zakażenia Helicobacter pylori wg zaleceń z Maastricht IV są:  1) chłoniak żołądka typu MALT;  2) życzenie pacjenta obawiającego się raka;  3) krewni 1 stopnia chorych na raka żołądka;  4) niewyjaśniona niedokrwistość z niedoboru żelaza;  5) niedobór witaminy B .  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -5976,7 +5976,7 @@ export const interna = [
         "questionText": "Które z wymienionych poniżej leków można zastosować u ciężarnej chorej leczonej z  powodu nadciśnienia tętniczego?  1) antagonistę receptora dla angiotensyny - walsartan;  2) beta adrenolityk - metoprolol;  3) centralnie działający lek antyadrenergiczny - metylodopa;  4) antagonistę receptora aldosteronu - spironolakton;  5) antagonistę wapnia - amlodypinę.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -6005,7 +6005,7 @@ export const interna = [
         "questionText": "Przeszczepianie płuc rozważa się w następujących chorobach:  1) idiopatycznym samoistnym zwłóknieniu płuc (IPF);  2) mukowiscydozie;  3) postaci ograniczonej raka płuca (T3);  4) III stopniu zaawansowania sarkoidozy;  5) umiarkowanej postaci POChP.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -6034,7 +6034,7 @@ export const interna = [
         "questionText": "Które z badań służy do potwierdzenia rozpoznania ostrego zapalenia trzustki?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -6063,7 +6063,7 @@ export const interna = [
         "questionText": "Metodą z wyboru w obrazowaniu choroby zwyrodnieniowej stawów jest:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -6092,7 +6092,7 @@ export const interna = [
         "questionText": "W leczeniu ostrej hiperkaliemii stosuje się:  1) spironolakton;  2) wodorowęglan sodu;  3) furosemid;  4) chlorek potasu;  5) heparynę;  6) chlorek wapnia.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -6121,7 +6121,7 @@ export const interna = [
         "questionText": "Podłoże genetyczne uwarunkowane mutacją pojedynczego genu cechuje następujące  choroby nerek:  1) choroba z przeciwciałami przeciwko błonie podstawnej kłębuszków nerkowych (anty-  GBM);  2) wielotorbielowatość nerek typu dorosłych;  3) zespół Alporta;  4) choroba von Hippel-Lindau;  5) nerka podkowiasta;  6) kamica struwitowa.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -6150,7 +6150,7 @@ export const interna = [
         "questionText": "Wskaż fałszywe stwierdzenie dotyczące szczepień przeciw grypie:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -6179,7 +6179,7 @@ export const interna = [
         "questionText": "Wskaż prawdziwe stwierdzenie:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -6208,7 +6208,7 @@ export const interna = [
         "questionText": "U 20-letniej chorej stwierdza się typowe objawy kliniczne reumatoidalnego zapalenia  stawów (RZS). Objawy pojawiły się 6 miesięcy temu. Jakie badania laboratoryjne  należy wykonać, aby rozpoznać RZS?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -6237,7 +6237,7 @@ export const interna = [
         "questionText": "20-letni mężczyzna skarży się na bóle i sztywność poranną kręgosłupa, które  zmniejszają się po ćwiczeniach. W badaniach laboratoryjnych OB = 44 mm/h, CRP = 23  mg/l, czynnik reumatoidalny nieobecny, obecny antygen HLA B27. Pacjent od 2 lat  zgłasza nawracające zapalenie i wysięk w lewym stawie kolanowym. W wywiadzie  także nawracające zapalenie tęczówki oraz zapalenie ścięgna Achillesa. Na podstawie  objawów klinicznych i badań dodatkowych należy rozpoznać:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -6266,7 +6266,7 @@ export const interna = [
         "questionText": "U 49-letniego pacjenta po urazie wielonarządowym doszło do ostrego uszkodzenia  nerek. Wskaż, które z wymienionych parametrów wskazują na 2 stadium ciężkości  ostrego uszkodzenia nerek:  1) stężenie sodu w moczu < 20 mmo/l;  2) dwukrotny wzrost stężenia kreatyniny w surowicy w stosunku do wartości wyjściowej;  3) zmniejszenie diurezy < 0,3 ml/kg/godzinę przez ponad 24 godziny;  4) wzrost stężenia mocznika o 50% wartości wyjściowej;  5) zmniejszenie diurezy < 0,5 ml/kg/godzinę przez co najmniej 12 godzin.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -6295,7 +6295,7 @@ export const interna = [
         "questionText": "Lekiem pierwszego wyboru w ostrej niewydolności wątroby spowodowanej  przedawkowaniem paracetamolu (acetaminofen) jest/są:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -6324,7 +6324,7 @@ export const interna = [
         "questionText": "Z powodu urazu głowy (bez innych dolegliwości) do izby przyjęć zgłosiła się 54-letnia  kobieta chorująca od 20 lat na cukrzycę. W badaniu ogólnym moczu stwierdzono  obecność białka 0,1 mg/dl; leukocyty zalegające pole widzenia, liczne bakterie. U tej  pacjentki należy zalecić:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -6353,7 +6353,7 @@ export const interna = [
         "questionText": "Wskaż, które z wymienionych chorób zaliczane są do przyczyn wtórnego nadciśnienia  tętniczego:  1) pierwotny hiperaldosteronizm;  2) zwężenie tętnicy nerkowej;  3) obturacyjny bezdech senny;  4) niedoczynność lub nadczynność tarczycy;  5) akromegalia;  6) koarktacja aorty.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -6382,7 +6382,7 @@ export const interna = [
         "questionText": "Określenie zaawansowania nowotworu:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -6411,7 +6411,7 @@ export const interna = [
         "questionText": "Najgłośniejszy szmer związany z niedomykalnością zastawki mitralnej stwierdza się w:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -6440,7 +6440,7 @@ export const interna = [
         "questionText": "Kobieta lat 45, dotychczas niechorująca, została przyjęta do Szpitalnego Oddziału  Ratunkowego (SOR) z powodu bardzo silnego bólu głowy promieniującego do karku,  który wystąpił po dźwignięciu ciężkiego przedmiotu. Według świadków po wystąpieniu  bólu głowy na kilka minut straciła przytomność (bez drgawek, bez oddania moczu). W  badaniu przy przyjęciu do SOR stwierdzono: GCS (Glasgow Coma Scale) 15 pkt,  ciśnienie tętnicze 140/85 mmHg, objaw Kerniga, sztywność karku na 3 palce. W takiej  sytuacji klinicznej pierwszym badaniem dodatkowym z wyboru, umożliwiającym  postawienie rozpoznania jest:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -6469,7 +6469,7 @@ export const interna = [
         "questionText": "Postępowaniem z wyboru we wstrząsie anafilaktycznym jest:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -6498,7 +6498,7 @@ export const interna = [
         "questionText": "Wskaż które z wymienionych mają zastosowanie w leczeniu stabilnego  hemodynamicznie napadu częstoskurczu z wąskimi zespołami komorowymi:  1) próba Valsalvy;  2) zanurzenie twarzy w zimnej wodzie;  3) masaż zatoki szyjnej;  4) podanie iwabradyny;  5) podanie adenozyny.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -6527,7 +6527,7 @@ export const interna = [
         "questionText": "Do szpitala przyjęto 52-letniego otyłego mężczyznę z objawami ostrego zapalenia  trzustki (OZT). Chory twierdzi, że nie pije regularnie alkoholu. W badaniu  ultrasonograficznym nie stwierdzono złogów w pęcherzyku żółciowym. Aktywności ALT i  fosfatazy zasadowej są prawidłowe. Pacjent nie zażywa leków znanych z możliwości  wywołania OZT. Jakie badanie należy wykonać w celu ustalenia najbardziej  prawdopodobnej przyczyny ostrego zapalenia trzustki?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -6556,7 +6556,7 @@ export const interna = [
         "questionText": "Chory lat 51 z nawracającym wysiękiem w stawie kolanowym lewym, do tej pory był  leczony przez ortopedę usuwaniem płynu stawowego i podawaniem  glikokortykosteroidów dostawowo. Obecnie pacjent zgłosił się do lekarza rodzinnego,  aby wykonać RTG stawów kolanowych. W badaniu RTG stwierdzono: linijne cienie w  chrząstkach stawowych oraz trójkątne złogi w łąkotkach. Na podstawie objawów  klinicznych i badań dodatkowych należy rozpoznać:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -6585,7 +6585,7 @@ export const interna = [
         "questionText": "Pacjent lat 67 zgłosił się do lekarza z powodu niespecyficznych dolegliwości bólowych  w klatce piersiowej. W badaniu przedmiotowym z odchyleń stwierdzono: obwód pasa  104 cm; BMI 29,5 kg/m . W dostępnych badaniach laboratoryjnych: glukoza 108 mg/dl;  cholesterol całkowity 223 mg/dl; triglicerydy 138 mg/dl, ALT 91 U/l. Wskaż prawdziwe  stwierdzenie:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -6614,7 +6614,7 @@ export const interna = [
         "questionText": "82-letni mężczyzna został przywieziony do szpitalnego oddziału ratunkowego przez  syna z powodu spuchniętej i bolesnej lewej nogi. U tego chorego zdiagnozowano dwa  miesiące temu raka płuca. Jaka jest najbardziej prawdopodobna przyczyna spuchnięcia  i bolesności kończyny dolnej?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -6643,7 +6643,7 @@ export const interna = [
         "questionText": "2    Przy użyciu jakiego leku należy rozpocząć leczenie świeżo rozpoznanej cukrzycy z  objawami polidypsji i poliurii?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -6672,7 +6672,7 @@ export const interna = [
         "questionText": "Które z wymienionych leków znajdują zastosowanie w leczeniu jawnej encefalopatii  wątrobowej?  1) probiotyki;  2) L-asparaginian L-ornityny;  3) neomycyna;  4) ryfaksymina;  5) laktuloza.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -6701,7 +6701,7 @@ export const interna = [
         "questionText": "19-letni mężczyzna zgłosił się do lekarza z powodu lekko zażółconych twardówek oczu.  Stężenie bilirubiny w surowicy krwi wynosi 2,9 mg/dl (50 µmol/l). Nie stwierdzono  odchyleń od normy w następujących badaniach dodatkowych i obrazowych: USG jamy  brzusznej, morfologia krwi, badanie ogólne moczu, LDH, AlAT, AspAT, GGTP, ALP,  antygen HBS i przeciwciała anty-HCV. Pacjent skarży się jedynie na stres związany ze  zbliżająca się maturą. W dalszym postępowaniu diagnostyczno-terapeutycznym należy:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -6730,7 +6730,7 @@ export const interna = [
         "questionText": "Pacjent z układem markerów wirusowych: HBsAg plus, HBeAg plus, anty-HBc IgM  minus, anty-HCV minus jest:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -6759,7 +6759,7 @@ export const interna = [
         "questionText": "Która z cech jest charakterystyczna dla zapalnego bólu krzyża występującego w  osiowej postaci spondyloartropatii?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -6788,7 +6788,7 @@ export const interna = [
         "questionText": "U 30-letniej kobiety z samoistnymi poronieniami, nawracającymi dolegliwościami  stawowymi i stanami podgorączkowymi wystąpiły objawy zespołu nerczycowego. W  osadzie moczu stwierdzono krwinkomocz i leukocyturię. Wskaż rozpoznanie:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -6817,7 +6817,7 @@ export const interna = [
         "questionText": "57-letni pacjent zgłosił się do izby przyjęć z powodu silnego bólu w okolicy lędźwiowej  prawej występującego od 2 dni, promieniującego do prawej pachwiny z towarzyszącymi  nudnościami, wymiotami, bez gorączki. W wykonanym badaniu ogólnym moczu  stwierdzono białkomocz 0,1 mg/dl, świeże erytrocyty zalegające pole widzenia,  leukocyty 5-8 wpw. Najbardziej prawdopodobną przyczyną dolegliwości jest:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -6846,7 +6846,7 @@ export const interna = [
         "questionText": "18-letni chory bez obciążającego wywiadu chorobowego, zgłosił się do poradni lekarza  rodzinnego z powodu nasilającego się od tygodnia osłabienia i pojawiających się  wieczorem obrzęków kończyn oraz krwiomoczu. Przed 3 tygodniami przebył różę. W  badaniu fizykalnym nadciśnienie tętnicze oraz obrzęki wokół kostek. W badaniu moczu  albuminuria 0,8 g/l i liczne erytrocyty. Występujące objawy z największym  prawdopodobieństwem sugerują:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -6875,7 +6875,7 @@ export const interna = [
         "questionText": "Bezwzględne przeciwwskazanie do wykonania nakłucia lędźwiowego stanowi:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -6904,7 +6904,7 @@ export const interna = [
         "questionText": "Rozpoznanie choroby zwyrodnieniowej opiera się na objawach klinicznych. W  przypadku nietypowego obrazu klinicznego zaleca się wykonanie badań obrazowych,  spośród których badaniami pierwszego rzutu są:  1) rezonans magnetyczny, gdyż pozwala na obrazowanie wszystkich struktur stawu,  także szpiku;  2) ultrasonografia stawów kolanowych, gdyż pozwala na obrazowanie tkanek miękkich  stawów;  3) tomografia komputerowa bolesnego stawu, gdyż pozwala na dokładne obrazowanie  struktur kostnych;  4) klasyczne badanie RTG bolesnego stawu;  5) scyntygrafia kości pozwalająca na ocenę ukrwienia towarzyszącego zapaleniu we  wszystkich stawach.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -6933,7 +6933,7 @@ export const interna = [
         "questionText": "40-letni pacjent zgłosił się do SOR z powodu silnego bólu w klatce piersiowej po stronie  lewej, nasilającego się podczas wdechu, z towarzyszącą dusznością. W badaniu  fizykalnym: tachypnoe, w lewej okolicy nadgrzebieniowej odgłos opukowy bębenkowy  oraz brak szmeru pęcherzykowego. W rtg klatki piersiowej w górnym polu płuca lewego  niewidoczny rysunek oskrzelowo-naczyniowy. Na podstawie całości obrazu klinicznego  można rozpoznać:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -6962,7 +6962,7 @@ export const interna = [
         "questionText": "25-letnia kobieta zgłosiła się z powodu gorączki 38,7°C, osłabienia, uczucia kołatania  serca oraz bolesnego powiększenia tarczycy z promieniowaniem do żuchwy. Tydzień  wcześniej miała niezbyt nasilone objawy infekcji górnych dróg oddechowych, nie  zgłosiła się do lekarza. W badaniu przedmiotowym ciśnienie tętnicze 145/65 mmHg,  tętno 100/min, wole tkliwe palpacyjnie, powłoki skórne okolicy szyi blade. W badaniach  laboratoryjnych z odchyleń stwierdzono OB 95 mm/h, leukocytoza 14500/µL, TSH 0,009  mU/L. Należy podejrzewać:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -6991,7 +6991,7 @@ export const interna = [
         "questionText": "Skala CHA DS -VASc odnosi się do:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -7020,7 +7020,7 @@ export const interna = [
         "questionText": "2 2    Wskaż prawdziwe stwierdzenie dotyczące chłoniaka rozlanego z dużych komórek B:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -7049,7 +7049,7 @@ export const interna = [
         "questionText": "Do czynników ryzyka zawartych w karcie SCORE należą:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -7078,7 +7078,7 @@ export const interna = [
         "questionText": "78-letni chory został przyjęty do szpitala w celu leczenia pozaszpitalnego zapalenia  płuc. Jakie jest najbardziej właściwe leczenie takiego zapalenia płuc?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -7107,7 +7107,7 @@ export const interna = [
         "questionText": "Pogotowie przywiozło na izbę przyjęć 72-letniego chorego z silnym bólem  zamostkowym występującym od 40 minut. U chorego rozpoznano ostry zawał mięśnia  sercowego z uniesieniem odcinka ST. Wskaż preferowaną metodę leczenia u tego    pacjenta:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -7136,7 +7136,7 @@ export const interna = [
         "questionText": "Do leków pierwszego rzutu w pierwotnym nadciśnieniu tętniczym nie należą:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -7165,7 +7165,7 @@ export const interna = [
         "questionText": "Zwiększenie zewnątrzkomórkowej objętości płynów w niewydolności nerek jest  skutkiem retencji soli i wody. Wskaż fałszywą konsekwencję przewodnienia:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -7194,7 +7194,7 @@ export const interna = [
         "questionText": "Triada Charcota to zespół objawów typowych dla:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -7223,7 +7223,7 @@ export const interna = [
         "questionText": "82-letnia chora została przywieziona przez zespół ratownictwa medycznego do  szpitalnego oddziału ratunkowego z powodu nagłego pogorszenia stanu ogólnego,  obniżenia ciśnienia tętniczego, majaczenia. Chora przebywała w zakładzie opiekuńczo-  leczniczym z powodu porażenia połowiczego po udarze. Z powodu nietrzymania moczu  chora jest przewlekle zacewnikowana. W worku widoczny mętny mocz. Potwierdzenie  rozpoznania urosepsy wymaga stwierdzenia:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -7252,7 +7252,7 @@ export const interna = [
         "questionText": "Do najczęstszych lokalizacji guza gastrynowego (gastrinoma) należą:  1) żołądek;  2) dwunastnica;  3) pęcherzyk żółciowy;  4) trzustka;  5) wyrostek robaczkowy.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -7281,7 +7281,7 @@ export const interna = [
         "questionText": "Do lekarza pierwszego kontaktu zgłosiła się pacjentka, przyjmująca związek litu ze  wskazań psychiatrycznych, poza tym nielecząca się przewlekle z przyczyn  internistycznych. Zgłasza uczucie zmęczenia, zmniejszoną tolerancję wysiłku, uczucie  chłodu, łatwe marznięcie oraz zaparcia. Jakie podłoże zgłaszanych dolegliwości można  podejrzewać u tej pacjentki?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -7310,7 +7310,7 @@ export const interna = [
         "questionText": "W celu oceny uszkodzenia nerek u pacjenta z cukrzycą t. 2 należy badać:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -7339,7 +7339,7 @@ export const interna = [
         "questionText": "Wskaż prawdziwe informacje na temat zespołu Alporta z dziedziczeniem związanym z  płcią:  1) jest spowodowany dziedzicznym zaburzeniem syntezy łańcucha alfa 5 kolagenu typu  IV i prowadzi do schyłkowej niewydolności nerek;  2) kobiety (heterozygoty) są zdrowymi nosicielkami genu lub choroba przebiega u nich  łagodnie;  3) krwinkomocz i białkomocz pojawia się u płci męskiej około 10. roku życia;  4) leczenie cyklosporyną hamuje rozwój choroby;  5) inhibitory enzymu konwertującego angiotensynę stosowane są w celu zmniejszenia  białkomoczu.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -7368,7 +7368,7 @@ export const interna = [
         "questionText": "Wskaż czynniki predysponujące do nefropatii kontrastowej:  1) przewlekła choroba nerek, eGFR< 60 ml/min/1,73 m ;  2) odwodnienie;  3) szpiczak plazmocytowy;  4) stosowanie inhibitorów pompy protonowej;  5) stosowanie niesteroidowych leków przeciwzapalnych.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -7397,7 +7397,7 @@ export const interna = [
         "questionText": "Pacjentka l. 29 gorączkująca od 2 tygodni do 38°C, mimo leczenia NLPZ, skarży się na  ból szyi promieniujący do ucha. W badaniach dodatkowych OB po 1 h 70 mm (N do 12),  TSH 0,11 mIU/l (N 0,27 - 4,2), leukocyty - 5600/mm . W pierwszym rzędzie należy wziąć  pod uwagę podejrzenie:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -7426,7 +7426,7 @@ export const interna = [
         "questionText": "2  3    Stężenie we krwi których jonów należy oznaczyć w pierwszej kolejności u osoby z  napadami tężyczki?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -7455,7 +7455,7 @@ export const interna = [
         "questionText": "Wskaż fałszywe stwierdzenie dotyczące automatycznego monitorowania ciśnienia  tętniczego (ABPM):",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -7484,7 +7484,7 @@ export const interna = [
         "questionText": "Wskaż niekorzystne prognostycznie czynniki ostrego kłębuszkowego zapalenia nerek:  1) krwinkomocz i wałeczki erytrocytarne w moczu;  2) wysokie miano antystreptolizyny 0;  3) utrzymujący się białkomocz przekraczający 2 g/dobę;  4) obniżenie przesączania kłębuszkowego < 40 ml/min;  5) obniżenie aktywności hemolitycznej dopełniacza i składowej C3.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -7513,7 +7513,7 @@ export const interna = [
         "questionText": "Skala ryzyka GRACE ułatwia podejmowanie decyzji o postępowaniu terapeutycznym u  chorych:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -7542,7 +7542,7 @@ export const interna = [
         "questionText": "Który z wymienionych czynników odpowiada za nawracające ostre zapalenia trzustki?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -7571,7 +7571,7 @@ export const interna = [
         "questionText": "Mężczyzna lat 52, chorujący na nadciśnienie tętnicze - prawidłowo leczone, został  przyjęty do Szpitalnego Oddziału Ratunkowego (SOR) z powodu bardzo silnego bólu  głowy promieniującego do karku, który wystąpił podczas intensywnej pracy fizycznej. W  badaniu przy przyjęciu do SOR stwierdzono: GCS (Glasgow Coma Scale) 15 pkt,  ciśnienie tętnicze 140/85 mmHg, objaw Kerniga, sztywność karku na 3 palce. W takiej  sytuacji klinicznej spośród badań dodatkowych w pierwszej kolejności należy wykonać:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -7600,7 +7600,7 @@ export const interna = [
         "questionText": "Wskaż leki pierwszego wyboru w leczeniu niepowikłanego zapalenia pęcherza  moczowego:  1) norfloksacyna;  2) cefuroksym;  3) furazydyna;  4) fosfomycyna;  5) kotrimoksazol.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -7629,7 +7629,7 @@ export const interna = [
         "questionText": "25-letnia kobieta zgłosiła się do lekarza z powodu kołatania serca występującego od 6  tygodni. Stężenie TSH jest poniżej normy a stężenie FT4 jest powyżej normy. Które z  poniższych rozpoznań jest najbardziej prawdopodobne?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -7658,7 +7658,7 @@ export const interna = [
         "questionText": "Zapalenie stawów kręgosłupa może wystąpić w przebiegu:  1) choroby Leśniowskiego i Crohna;  2) łuszczycy;    3) zakażenia przewodu pokarmowego pałeczkami jelitowymi z rodziny  Enterobacteriaceae;  4) zakażenia Chlamydia trachomatis.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -7687,7 +7687,7 @@ export const interna = [
         "questionText": "54-letnia kobieta z rozpoznaną od kilku lat hiperlipidemią, leczona atorwastatyną w  dawce 40 mg, zgłosiła się na badania kontrolne. Przyjmuje z powodu nadciśnienia  tętniczego ramipril 10 mg. Nie choruje na cukrzycę, w wywiadzie przebyte przemijające  niedokrwienie mózgu (TIA). Przedmiotowo: BMI 27,8 kg/m , RR 138/76 mmHg. Wyniki  badań: cholesterol całkowity 6,62 mmol/l (255 mg%), LDL-cholesterol 4,34 mmol/l (166  mg%), HDL-cholesterol 0,9 mmol/l (35 mg%), triglicerydy 1,8 mmol/l (160 mg%), ALT w  normie. Wskaż postępowanie optymalne w zakresie leczenia zaburzeń lipidowych:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -7716,7 +7716,7 @@ export const interna = [
         "questionText": "Wskaż cechę, która nie jest charakterystyczna dla przewlekłej obturacyjnej choroby  płuc:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -7745,7 +7745,7 @@ export const interna = [
         "questionText": "Za zmiany rumieniowate pod wpływem słońca oraz całkowity blok serca u dzieci matek  chorujących na toczeń rumieniowaty układowy odpowiadają przeciwciała reagujące z  antygenem:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -7774,7 +7774,7 @@ export const interna = [
         "questionText": "Przyczyną zwiększonej objętości krwinek czerwonych (ang. mean corpuscular volume -  MCV) może być:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -7803,7 +7803,7 @@ export const interna = [
         "questionText": "Która z wymienionych cech nie jest charakterystyczna dla przewlekłej choroby nerek?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -7832,7 +7832,7 @@ export const interna = [
         "questionText": "Pacjent lat 34 zgłasza nudności, uczucie rozpierania i gniecenia za mostkiem,  zwłaszcza po posiłkach stałych. Dolegliwości te występują od ok. 3 lat, zwłaszcza w  okresie letnim i jesiennym. Wcześniej był standardowo leczony w kierunku choroby  refluksowej przełyku bez poprawy. W dzieciństwie rozpoznana astma oskrzelowa. W  gastroskopii nie stwierdzono zmian makroskopowych, pobrano tylko wycinki do badania  hist.-pat. z błony śluzowej przełyku. Najbardziej prawdopodobną przyczyną zgłaszanych  dolegliwości jest:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -7861,7 +7861,7 @@ export const interna = [
         "questionText": "U kobiety lat 32 w 14. tygodniu ciąży wystąpiły silne nudności i wymioty z towarzyszącą  utratą masy ciała, dyselektrolitemią, transaminezemią. W diagnostyce różnicowej  uwzględnisz niepowściągliwe wymioty ciężarnej, do których predysponują:  1) nadczynność tarczycy;  2) zakażenie H. pylori;  3) otyłość;  4) wcześniejsze zaburzenia psychiczne;  5) wiek.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -7890,7 +7890,7 @@ export const interna = [
         "questionText": "Wskaż lek, który nie powinien być stosowany jako lek pierwszego rzutu w leczeniu  nadciśnienia tętniczego:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -7919,7 +7919,7 @@ export const interna = [
         "questionText": "Do lekarza rodzinnego zgłosiła się 45-letnia chora z cukrzycą typu 2 po powtórzenie  recept na nadciśnienie tętnicze. W przypadkowo wykonanym badaniu ogólnym moczu  stwierdzono u tej chorej leukocyty, 20-30 w polu widzenia oraz liczne bakterie. Chorej  tej należy zalecić:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -7948,7 +7948,7 @@ export const interna = [
         "questionText": "Do typowych objawów twardziny układowej nie należy/ą:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -7977,7 +7977,7 @@ export const interna = [
         "questionText": "Blok przedsionkowo komorowy I stopnia w EKG można rozpoznać na podstawie:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -8006,7 +8006,7 @@ export const interna = [
         "questionText": "Wskaż lokalizację pola osłuchiwania zastawki aortalnej:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -8035,7 +8035,7 @@ export const interna = [
         "questionText": "Który z wymienionych niżej leków nie powinien być użyty jako jedyny podczas  rozpoczęcia leczenia świeżej zakrzepicy żył głębokich kończyny?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -8064,7 +8064,7 @@ export const interna = [
         "questionText": "Który z leków jest stosowany do przerwania ostrego napadu dny moczanowej?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -8093,7 +8093,7 @@ export const interna = [
         "questionText": "Chorobą przebiegającą z poszerzeniem układów kielichowo-miedniczkowych obu nerek  u starszego mężczyzny z dolegliwościami ze strony dolnych dróg moczowych jest  najczęściej:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -8122,7 +8122,7 @@ export const interna = [
         "questionText": "62-letni pacjent zgłosił się do szpitala z powodu uczucia bólu zamostkowego, które  pojawiło się ok. godziny przed przybyciem do szpitala. W EKG zaobserwowano ujemne  załamki T w odprowadzeniach II, III, aVF (jak na rycinie poniżej). Klasyfikację  dolegliwości związanych z tymi objawami przedstawia skala:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -8151,7 +8151,7 @@ export const interna = [
         "questionText": "Badanie stężenia antygenu rakowo-płodowego (CEA - carcinoembryonic antigen) ma    największą wartość w diagnostyce raka:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -8180,7 +8180,7 @@ export const interna = [
         "questionText": "29-letnia pacjentka zgłosiła się do izby przyjęć z powodu bólów brzucha, gorączki do  40°C z dreszczami oraz nudności. W badaniach dodatkowych CRP 120 mg/L (N<5  mg/L), leukocytoza 16 tys./mm , w badaniu ogólnym moczu stwierdzono: ciężar  właściwy 1,030 g/mL; białko - 1,2 g/L; L 30-50 wpw + liczne w skupiskach; erytrocyty  10-20 świeże wpw. Najbardziej prawdopodobnym rozpoznaniem u tej chorej jest:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -8209,7 +8209,7 @@ export const interna = [
         "questionText": "W ostrym napadzie dny moczanowej stosuje się:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -8238,7 +8238,7 @@ export const interna = [
         "questionText": "Pacjent lat 38, przyjęty do szpitala z powodu występujących od 24 godzin bólów głowy,  splątania, niedowładu połowiczego prawostronnego i dysfazji. Ponadto stwierdzono  3    opryszczkę wargową, temperaturę 38,6°C i sztywność karku na 3 palce. Wykonano  badanie płynu mózgowo-rdzeniowego i stwierdzono pleocytozę 250 leukocytów/mm  z  czego 90% to limfocyty, stężenie białka 70 mg/dl, stężenie glukozy 60 mg/dl (w surowicy  85 mg/dl). Badanie rezonansu magnetycznego głowy wykazało wzmocnienie sygnału w  sekwencji FLAIR przyśrodkowej części płata skroniowego lewego. Do otrzymania  wyników badań mikrobiologicznych i badania PCR lekiem o działaniu przyczynowym na  czynnik etiologiczny z wyboru w tej sytuacji jest:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -8267,7 +8267,7 @@ export const interna = [
         "questionText": "Bezobjawowy bakteriomocz jest wskazaniem do antybiotykoterapii:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -8296,7 +8296,7 @@ export const interna = [
         "questionText": "Wskazaniem do zastosowania czasowej insulinoterapii u pacjenta chorego na cukrzycę  typu 2 stosującego preparat metforminy i saksagliptyny jest:  1) każda glikemia powyżej 300 mg/dl;  2) każde zapalenie gardła;  3) udar niedokrwienny mózgu;  4) zabieg operacyjny;  5) podróż związana ze zmianą strefy czasowej.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -8325,7 +8325,7 @@ export const interna = [
         "questionText": "Typowo w reumatoidalnym zapaleniu stawów nie są zajęte stawy:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -8354,7 +8354,7 @@ export const interna = [
         "questionText": "Wskaż, co nie jest cechą ostrego zespołu nefrytycznego:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -8383,7 +8383,7 @@ export const interna = [
         "questionText": "Do leków pierwszego rzutu stosowanych w terapii empirycznej niepowikłanych zakażeń  układu moczowego u kobiet niebędących w ciąży, nie należy:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -8412,7 +8412,7 @@ export const interna = [
         "questionText": "Czynnikiem nie mającym wpływu (korzystnego lub niekorzystnego) na występowanie  raka jelita grubego jest:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -8441,7 +8441,7 @@ export const interna = [
         "questionText": "Pacjent l. 77 leczony od kilku lat z powodu kamicy nerkowej skarży się na uogólnione  bóle kostne. W badaniach dodatkowych stężenie wapnia 12,3 mg/dl (N: 8,5-10,5 mg/dl),  dobowe wydalanie wapnia 480 mg/24h (N: 150-300 mg/24h), PTH 227 pg/ml (N: 15-65  pg/ml). W pierwszym rzędzie należy podejrzewać:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -8470,7 +8470,7 @@ export const interna = [
         "questionText": "U 65-letniego chorego leczonego 4 lekami z powodu nadciśnienia tętniczego doszło do  pierwszego w życiu napadu dny moczanowej. Który z leków stosowanych w leczeniu  nadciśnienia tętniczego jest najprawdopodobniej odpowiedzialny za wywołanie napadu  dny moczanowej u tego chorego?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -8499,7 +8499,7 @@ export const interna = [
         "questionText": "Jakie są wskazania do zastosowania glukokortykosteroidów w leczeniu gruźlicy?  1) niedoczynność nadnerczy wywołana gruźlicą nadnerczy;  2) serowate zapalenie płuc;  3) ostre zapalenie osierdzia;  4) zapalenie opon mózgowo-rdzeniowych i mózgu z objawami zwiększonego ciśnienia  wewnątrzczaszkowego;  5) gruźlica kręgosłupa.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -8528,7 +8528,7 @@ export const interna = [
         "questionText": "Rozpoznanie jakiej skazy krwotocznej sugeruje następujący koagulogram:  PT 8,5 s (N: 12-16 s), APTT 66,4 s (N: 28-30 s), fibrynogen 334 mg/dL (N: 180-350  mg/dL), D-dimery 417 ng/mL (N: 100-500 ng/mL)?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -8557,7 +8557,7 @@ export const interna = [
         "questionText": "Do objawów zespołu hiperkalcemicznego nie należy:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -8586,7 +8586,7 @@ export const interna = [
         "questionText": "Pancytopenia jest definiowana na podstawie:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -8615,7 +8615,7 @@ export const interna = [
         "questionText": "Do szpitala przywieziony został 45-letni mężczyzna z silnym bólem w klatce piersiowej  nieustępującym po nitratach. Ból promieniuje do okolicy lędźwiowej. W wywiadzie  wieloletnie nadciśnienie tętnicze źle kontrolowane. W badaniu osłuchowym serca  można się spodziewać u tego pacjenta obecności szmeru:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -8644,7 +8644,7 @@ export const interna = [
         "questionText": "Jak należy suplementować dożylnie potas u chorego z kwasicą ketonową?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -8673,7 +8673,7 @@ export const interna = [
         "questionText": "Najczęstszą przyczyną zgonów z powodu nowotworów u kobiet jest w Polsce:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -8702,7 +8702,7 @@ export const interna = [
         "questionText": "Występowanie trombofilii jest najbardziej prawdopodobne u chorego:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -8731,7 +8731,7 @@ export const interna = [
         "questionText": "Lekarz lub ratownik medyczny zespołu wyjazdowego pogotowia ratunkowego w  przypadku wezwania do chorego, u którego wystąpił niedowład połowiczy lewostronny o  nagłym początku i ciśnienie tętnicze wynosiło 180/110 mmHg, po zbadaniu chorego i w  razie potrzeby zabezpieczeniu podstawowych czynności życiowych, powinien  niezwłocznie:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -8760,7 +8760,7 @@ export const interna = [
         "questionText": "Jakie zaburzenia gospodarki wapniowo-fosforanowej występują w przewlekłej chorobie  nerek?  1) podwyższone stężenie PTH w surowicy;  2) obniżone stężenie FGF-23 (fosfatonina) w surowicy;  3) obniżone stężenie wapnia;  4) podwyższone stężenie fosforu;  5) podwyższone stężenie 1,25(OH) D .  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -8789,7 +8789,7 @@ export const interna = [
         "questionText": "64-letnia otyła kobieta z łuszczycą zgłasza bóle kurczowe brzucha, wodnistą biegunkę i  ubytek masy ciała w ciągu ostatnich trzech miesięcy od wystąpienia dolegliwości (ok. 6  kg). Dotychczas nie leczyła się z powodu chorób przewlekłych. W badaniu  przedmiotowym - zaznaczona wzmożona perystaltyka jelit. W rutynowych badaniach  2 3    laboratoryjnych bez odchyleń od normy. Kolonoskopia - makroskopowo obraz jelita  grubego oraz końcowego odcinka jelita krętego bez zmian. W wycinkach pobranych z  prawej połowy jelita grubego stwierdzono jedynie niedużego stopnia naciek z limfocytów  i plazmocytów w blaszce właściwej błony śluzowej. Najbardziej prawdopodobnym  rozpoznaniem jest:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -8818,7 +8818,7 @@ export const interna = [
         "questionText": "Szmer skurczowy o charakterze „crescendo-decrescendo” promieniujący do tętnic  szyjnych i obojczyków jest charakterystyczny dla:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -8847,7 +8847,7 @@ export const interna = [
         "questionText": "Badania przesiewowe mają naukowe uzasadnienie w praktyce dla wykrywania:  1) raka piersi;  2) raka gruczołu krokowego;  3) raka szyjki macicy;  4) raka płuca;  5) raka jelita grubego;  6) czerniaka.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -8876,7 +8876,7 @@ export const interna = [
         "questionText": "Do najczęściej występujących uchyłków w jelicie grubym należą:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -8905,7 +8905,7 @@ export const interna = [
         "questionText": "Co nie jest typowe dla podostrego zapalenia tarczycy typu deQuervain?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -8934,7 +8934,7 @@ export const interna = [
         "questionText": "Bezobjawowy bakteriomocz należy leczyć:  1) u osób z cewnikiem na stałe;  2) u osób z pęcherzem neurogennym;  3) u kobiet w ciąży;  4) przed zabiegiem urologicznym, w którym przerywana jest ciągłość błony śluzowej  dróg moczowych;  5) u biorców nerki przeszczepionej w każdym okresie po transplantacji.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -8963,7 +8963,7 @@ export const interna = [
         "questionText": "Stwierdzenie w spirometrii zmniejszenia pojemności życiowej płuc (VC) poniżej dolnej  granicy normy przy prawidłowej lub zwiększonej wartości wskaźnika FEV /VC  może  sugerować występowanie restrykcji. W celu wyjaśnienia przyczyny zmniejszenia VC  wskazane jest wykonanie:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -8992,7 +8992,7 @@ export const interna = [
         "questionText": "W celu potwierdzenia reumatoidalnego zapalenia stawów należy wykonać oznaczenie:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -9021,7 +9021,7 @@ export const interna = [
         "questionText": "Autoimmunologiczne zapalenie trzustki może cechować się zwiększonym stężeniem:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -9050,7 +9050,7 @@ export const interna = [
         "questionText": "Wskaż choroby mogące być przyczyną nagromadzenia płynu w opłucnej,  charakteryzującego się obniżonym pH (< 7,3):  1) zastoinowa niewydolność serca;  2) powikłany wysięk parapneumoniczny;  3) zespół nerczycowy;  4) nowotworowy wysięk w opłucnej;  5) gruźliczy wysięk w opłucnej.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -9079,7 +9079,7 @@ export const interna = [
         "questionText": "52-letnia chora zgłasza się do lekarza z powodu silnych i bolesnych skurczów dłoni  występujących od dwóch tygodni. Miesiąc temu u chorej usunięto operacyjnie tarczycę  z powodu wola zamostkowego. Najbardziej prawdopodobną przyczyną tych objawów  jest:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -9108,7 +9108,7 @@ export const interna = [
         "questionText": "Wystąpienie gorączki u chorej na raka piersi, która przed tygodniem otrzymała kolejny  cykl uzupełniającej chemioterapii pooperacyjnej:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -9137,7 +9137,7 @@ export const interna = [
         "questionText": "Alfa-fetoproteina jest wskaźnikiem laboratoryjnym:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -9166,7 +9166,7 @@ export const interna = [
         "questionText": "Do kryteriów rozpoznania polimialgii reumatycznej nie należy:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -9195,7 +9195,7 @@ export const interna = [
         "questionText": "Dla zespołu hemolityczno-mocznicowego charakterystyczne są:  1) małopłytkowość;  2) podwyższone stężenie kreatyniny w surowicy;  3) nadpłytkowość;  4) niedokrwistość;  5) obecność schistocytów we krwi obwodowej;    6) obecność limfoblastów we krwi obwodowej.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -9224,7 +9224,7 @@ export const interna = [
         "questionText": "Jakich powikłań kardiologicznych można oczekiwać w przebiegu nadczynności  tarczycy?  1) zaburzeń rytmu serca;  2) zaostrzenia niewydolności krążenia;  3) zaostrzenia choroby wieńcowej;  4) zapalenia mięśnia sercowego;  5) bloków przedsionkowo-komorowych.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -9253,7 +9253,7 @@ export const interna = [
         "questionText": "Badanie spirometryczne pozwala na pomiar następujących parametrów:  1) pojemność życiowa;  2) całkowita pojemność płuc;  3) natężona objętość wydechowa pierwszosekundowa;  4) pojemność wdechowa;  5) objętość zalegająca.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -9282,7 +9282,7 @@ export const interna = [
         "questionText": "Wskaż nieprawdziwą informację na temat cukrzycowej choroby nerek:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -9311,7 +9311,7 @@ export const interna = [
         "questionText": "Detemir należy do leków hipoglikemizujących z grupy:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -9340,7 +9340,7 @@ export const interna = [
         "questionText": "Do charakterystycznych objawów klinicznych towarzyszących tamponadzie serca  należą:  1) nadmierne wypełnienie żył szyjnych zewnętrznych;  2) wysokie wartości ciśnienia tętniczego;  3) hipotensja;  4) stłumienie tonów serca;    5) bradykardia;  6) tachykardia.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -9369,7 +9369,7 @@ export const interna = [
         "questionText": "Płyn przesiękowy, charakteryzujący się niską zawartością białka i małą aktywnością  dehydrogenazy mleczanowej (LDH) może gromadzić się w jamie opłucnej w przebiegu:  1) zapalenia płuc;  2) niewydolności serca;  3) marskości wątroby;  4) nowotworów;  5) chorób układu pokarmowego.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -9398,7 +9398,7 @@ export const interna = [
         "questionText": "27-letnia, wyglądająca na ładnie opaloną kobieta zjawia się w lutym u lekarza skarżąc  się na osłabienie, nudności, zawroty głowy i mroczki przed oczami, zwłaszcza po  wstaniu z łóżka lub z krzesła w pracy. Pacjentka schudła około 4 kg. W maju wychodzi  za mąż i planuje ciążę. W badaniu klinicznym ciśnienie tętnicze 105/60 mmHg, tętno  około 90/minutę, stężenie TSH 7,85 µIU/ml (norma 0,27-4,2). Wskaż właściwe  postępowanie kliniczne:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -9427,7 +9427,7 @@ export const interna = [
         "questionText": "Które z wymienionych leków mogą spowodować hiperkalcemię?  1) kalcymimetyki;  2) tiazydy;  3) lit;  4) antagoniści receptora wapniowego;  5) witamina D.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -9456,7 +9456,7 @@ export const interna = [
         "questionText": "Hemolityczne podłoże niedokrwistości podejrzewa się w przypadku stwierdzenia:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -9485,7 +9485,7 @@ export const interna = [
         "questionText": "Wskaż najbardziej prawdopodobne rozpoznanie u chorego z gorączką, wysypką  skórną, owrzodzeniami nosa z ropną wydzieliną, zajęciem zatok, stawów, dusznością,  kaszlem z odpluwaniem krwistej plwociny, białkomoczem i mikroskopowym  krwiomoczem:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -9514,7 +9514,7 @@ export const interna = [
         "questionText": "Wskaż najbardziej charakterystyczną nieprawidłowość u chorych na szpiczaka  plazmocytowego:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -9543,7 +9543,7 @@ export const interna = [
         "questionText": "Przeciwciała przeciwjądrowe swoiście reagujące z antygenem Scl-70 występują u  chorych na:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -9572,7 +9572,7 @@ export const interna = [
         "questionText": "67-letnia kobieta z napadowym migotaniem przedsionków, nadciśnieniem tętniczym i  cukrzycą typu 2 (CHA DS -VASc score 4) w ramach prewencji udaru niedokrwiennego  mózgu wymaga leczenia:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -9601,7 +9601,7 @@ export const interna = [
         "questionText": "U 78-letniej pacjentki stwierdzono w badaniu densytometrycznym T-score -2,8 a  ponadto stężenie wapnia 13,0 mg/ml (norma 8,5-10,5). Pacjentka wymaga dalszej  diagnostyki w kierunku:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -9630,7 +9630,7 @@ export const interna = [
         "questionText": "Która z wymienionych chorób najczęściej towarzyszy pierwotnemu stwardniającemu  zapaleniu dróg żółciowych (PSC)?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -9659,7 +9659,7 @@ export const interna = [
         "questionText": "U pacjenta z eGFR 40 ml/min/1,73 m  przed wykonaniem tomografii komputerowej  klatki piersiowej z kontrastem należy zastosować:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -9688,7 +9688,7 @@ export const interna = [
         "questionText": "Wskaż prawdziwe stwierdzenie dotyczące zaburzeń laboratoryjnych w zespole Gilberta:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -9717,7 +9717,7 @@ export const interna = [
         "questionText": "Inhibitory konwertazy angiotensyny i blokery receptora AT1 angiotensyny II:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -9746,7 +9746,7 @@ export const interna = [
         "questionText": "Wskaż możliwą przyczynę utrzymywania się niskiego ciężaru właściwego moczu  podczas prawidłowo przeprowadzanego testu odwodnieniowego:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -9775,7 +9775,7 @@ export const interna = [
         "questionText": "Karta ryzyka SCORE, stosowana w Polsce w ocenie 10-letniego ryzyka zgonu z  przyczyn sercowo-naczyniowych, uwzględnia wpływ:  1) stężenia triglicerydów;  2) stężenia cholesterolu HDL;  3) stężenia glukozy;  4) stężenia cholesterolu całkowitego;  5) stężenia cholesterolu LDL.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -9804,7 +9804,7 @@ export const interna = [
         "questionText": "Przyczyną niedokrwistości u chorych na zespoły mielodysplastyczne jest:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -9833,7 +9833,7 @@ export const interna = [
         "questionText": "U 68-letniego pacjenta po zawale mięśnia sercowego stwierdzono stężenie cholesterolu  LDL 160 mg/dl. U chorego tego należy zastosować statynę w celu obniżenia stężenia  cholesterolu LDL poniżej:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -9862,7 +9862,7 @@ export const interna = [
         "questionText": "Przyczyną hipourykemii nie jest:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -9891,7 +9891,7 @@ export const interna = [
         "questionText": "79-letnia kobieta została przyjęta do szpitala z objawami ostrego uszkodzenia nerek z  oligurią oraz silnymi bólami mięśni. Które z zażywanych przez chorą leków powinny być  pilnie odstawione?  1) lisinopril 40 mg/dobę;  2) simwastatyna 40 mg/dobę;  3) metoprolol 50 mg/dobę;  4) amlodypina 10 mg/dobę;  12    5) telmisartan 80 mg/dobę.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -9920,7 +9920,7 @@ export const interna = [
         "questionText": "Do charakterystycznych cech choroby Leśniowskiego-Crohna spośród wymienionych  poniżej należą:  1) obecność w surowicy przeciwciał przeciwko Saccharomyces cerevisiae (ASCA);  2) toksyczne rozdęcie okrężnicy (megacolon toxicum);  3) obecność przetok;  4) obecność polipów rzekomych;  5) zmiany okołoodbytowe.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -9949,7 +9949,7 @@ export const interna = [
         "questionText": "Który z wymienionych czynników nie predysponuje do postępującej utraty funkcji  nerek?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -9978,7 +9978,7 @@ export const interna = [
         "questionText": "U pacjentów z podejrzeniem zatorowości płucnej, celem oceny prawdopodobieństwa  klinicznego jej występowania, zastosowanie znajdują następujące skale:  1) EHRA;  2) PESI;  3) TIMI;  4) Wellsa;  5) zmodyfikowana skala genewska.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -10007,7 +10007,7 @@ export const interna = [
         "questionText": "Wynik badania morfologii krwi: WBC 4,1 G/L, LY 0,91 G/L, MO 0,18 G/L, NE 2,81 G/L,  RBC 2,16 T/L, HGB 8,6 g/dL, MCV 119,0 fL, PLT 182 G/L sugeruje rozpoznanie:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -10036,7 +10036,7 @@ export const interna = [
         "questionText": "CRAB to akronim określający:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -10065,7 +10065,7 @@ export const interna = [
         "questionText": "Najczęstszą nabytą wadą zastawkową u osób dorosłych jest:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -10094,7 +10094,7 @@ export const interna = [
         "questionText": "Wskaż leki pierwszego wyboru w leczeniu niepowikłanego ostrego zapalenia pęcherza  moczowego:  1) cyprofloksacyna;  2) fosfomycyna;  3) kotrimoksazol (trimetoprim + sulfametoksazol);  4) amoksycylina + kwas klawulanowy;  5) nitrofurantoina.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -10123,7 +10123,7 @@ export const interna = [
         "questionText": "Hiperkalcemia nie występuje w przebiegu:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -10152,7 +10152,7 @@ export const interna = [
         "questionText": "Docelowa wartość stężenia cholesterolu LDL u 65-letniego pacjenta po przebytym  zawale mięśnia sercowego (STEMI) leczonym angioplastyką wieńcową z implantacją  stentu DES w zakresie tętnicy przedniej zstępującej, nadciśnieniem tętniczym,  nikotynizmem oraz cukrzycą typu 2 wynosi:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -10181,7 +10181,7 @@ export const interna = [
         "questionText": "Dominującymi zaburzeniami elektrolitowymi charakteryzującymi ostre uszkodzenie  nerek wtórne do zespołu rozpadu guza, rozwijającego się po podaniu chemioterapii w  chłoniakach i ostrych białaczkach są:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -10210,7 +10210,7 @@ export const interna = [
         "questionText": "Które leki preferowane są w leczeniu astmy jako leki kontrolujące przebieg choroby?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -10239,7 +10239,7 @@ export const interna = [
         "questionText": "32-letni mężczyzna zgłosił się do lekarza z powodu gorączki do 40 °C. W badaniu  przedmiotowym stwierdzono zapalenie ucha środkowego oraz prawostronne zapalenie  płuc, potwierdzone badaniem RTG. W badaniach laboratoryjnych wykazano  białkomocz, erytrocyturię z przewagą erytrocytów wyługowanych. Jakie badanie należy  wykonać, aby potwierdzić prawdopodobne rozpoznanie?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -10268,7 +10268,7 @@ export const interna = [
         "questionText": "Wskaż fałszywe stwierdzenie dotyczące skal i klasyfikacji stosowanych w chorobach  układu sercowo-naczyniowego:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -10297,7 +10297,7 @@ export const interna = [
         "questionText": "Wskaż, który z wymienionych niżej elementów nie jest elementem oceny ryzyka  powikłań zatorowych u chorego z niezastawkowym migotaniem przedsionków  uwzględnionym w skali CHA DS VASc:2 2",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -10326,7 +10326,7 @@ export const interna = [
         "questionText": "Guz chromochłonny może być uwarunkowany genetycznie. Które z wymienionych  danych klinicznych nasuwają podejrzenie mutacji germinalnej u pacjenta z  pheochromocytoma ?  1) guz rozpoznano w 17. r.ż.;  2) guzy występują obustronnie;  3) współistnieje nadczynność przytarczyc;  4) pacjent był operowany z powodu raka brodawkowatego tarczycy;  5) nadciśnienie ma charakter napadowy.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -10355,7 +10355,7 @@ export const interna = [
         "questionText": "Za pomocą których z wymienionych testów można ocenić skuteczność leczenia  eradykacyjnego Helicobacter pylori bez konieczności wykonywania badania  endoskopowego?  1) test serologiczny z ilościowym oznaczeniem IgG przeciw Helicobacter pylori;  2) test oddechowy z mocznikiem znakowanym izotopem C13;  3) badanie antygenu H. pylori w kale;  4) test ureazowy (CLO-test);  5) badanie histopatologiczne błony śluzowej żołądka.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -10384,7 +10384,7 @@ export const interna = [
         "questionText": "W jaki sposób należy suplementować witaminę B  w przypadku niedokrwistości  złośliwej (Addisona-Biermera)?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -10413,7 +10413,7 @@ export const interna = [
         "questionText": "Wskaźnik aldosteronowo-reninowy wykorzystywany jest jako test przesiewowy w  diagnostyce:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -10442,7 +10442,7 @@ export const interna = [
         "questionText": "W leczeniu reumatoidalnego zapalenia stawów używa się leków modyfikujących  przebieg choroby, do których nie zalicza się:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -10471,7 +10471,7 @@ export const interna = [
         "questionText": "Która z poniższych kombinacji leków nie jest zalecana w leczeniu nadciśnienia  tętniczego?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -10500,7 +10500,7 @@ export const interna = [
         "questionText": "Jakie endokrynopatie stanowią składowe zespołu mnogich nowotworów układu  wydzielania wewnętrznego typu 2A (zespołu MEN2A)?  1) pierwotna niedoczynność przytarczyc;  2) rak rdzeniasty tarczycy;  3) gruczolaki nadnerczy;  4) pierwotna nadczynność przytarczyc;  5) gruczolaki przysadki;  6) guz chromochłonny nadnerczy.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -10529,7 +10529,7 @@ export const interna = [
         "questionText": "Który z wymienionych leków jest przeciwwskazany w leczeniu nadciśnienia tętniczego u  kobiety w ciąży?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -10558,7 +10558,7 @@ export const interna = [
         "questionText": "Przeciwciała przeciwjądrowe (ANA) reagujące swoiście z antygenem Jo-1, występują  głównie u chorych na:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -10587,7 +10587,7 @@ export const interna = [
         "questionText": "Glomerulopatia przebiegająca jako zespół nefrytyczny i charakteryzująca się  występowaniem tzw. półksiężyców w ponad 50% kłębuszków w obrazie  histopatologicznym wycinka nerki badanym w mikroskopie świetlnym to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -10616,7 +10616,7 @@ export const interna = [
         "questionText": "Zalecanym postępowaniem w ostrym zapaleniu oskrzeli u dorosłych jest:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -10645,7 +10645,7 @@ export const interna = [
         "questionText": "Lekami pierwszego wyboru hamującymi postęp reumatoidalnego zapalenia stawów są:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -10674,7 +10674,7 @@ export const interna = [
         "questionText": "Których leków nie powinno się stosować w leczeniu nadciśnienia tętniczego u  ciężarnych?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -10703,7 +10703,7 @@ export const interna = [
         "questionText": "18-letni mężczyzna zgłosił się do lekarza z powodu uporczywych bólów kręgosłupa  lędźwiowego. U chorego wcześniej rozpoznano dyskopatię. Obecnie chory uskarża się  na bóle pośladków i pachwin oraz obrzęk prawego ścięgna Achillesa. Jakie badanie  należy wykonać by potwierdzić rozpoznanie?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -10732,7 +10732,7 @@ export const interna = [
         "questionText": "W ostrym kłębuszkowym zapaleniu nerek charakterystyczne jest występowanie:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -10761,7 +10761,7 @@ export const interna = [
         "questionText": "Wskaż zdanie fałszywe w odniesieniu do zespołu Lyncha:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -10790,7 +10790,7 @@ export const interna = [
         "questionText": "Obecność antygenu HLA B-27 jest charakterystyczna dla:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -10819,7 +10819,7 @@ export const interna = [
         "questionText": "Wskaż prawdziwe stwierdzenia dotyczące zapalenia mięśnia sercowego:  1) najczęstszą przyczyną zapalenia mięśnia sercowego jest infekcja bakteryjna;  2) migotanie komór może być pierwszym objawem zapalenia mięśnia sercowego;  3) rezonans magnetyczny serca jest badaniem mogącym potwierdzić rozpoznanie  zapalenia mięśnia sercowego;  4) u pacjentów z zapaleniem mięśnia sercowego nie zaleca się ograniczenia aktywności  fizycznej;  5) antybiotyki są podstawowymi lekami w terapii zapalenia mięśnia sercowego.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -10848,7 +10848,7 @@ export const interna = [
         "questionText": "Do oceny nasilenia objawów podmiotowych u pacjentów z migotaniem przedsionków  służy skala:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -10877,7 +10877,7 @@ export const interna = [
         "questionText": "Przyczyną hiperkaliemii rzekomej może być:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -10906,7 +10906,7 @@ export const interna = [
         "questionText": "U otyłego pacjenta z cukrzycową chorobą nerek w stadium 2 w przebiegu cukrzycy typu  2, lekiem z wyboru w leczeniu nadciśnienia tętniczego jest:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -10935,7 +10935,7 @@ export const interna = [
         "questionText": "Jaką diagnostykę należy przeprowadzić u pacjenta z przypadkowo wykrytym guzem  nadnercza o śred. 1,5 cm, +13j Hounsfielda w celu wykluczenia guza chromochłonnego  nadnercza?  1) oznaczenie metoksykatecholamin w DZM;  2) BACC guza;  3) test z 1 mg deksametazonu;  4) oznaczenie aldosteronu i reniny;  5) oznaczenie androstendionu.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -10964,7 +10964,7 @@ export const interna = [
         "questionText": "Rak płuca:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -10993,7 +10993,7 @@ export const interna = [
         "questionText": "Którą z wymienionych poniżej grup leków należy wybrać w pierwszym rzędzie w terapii  nadciśnienia u chorego ze współistniejącą albuminurią?",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -11022,7 +11022,7 @@ export const interna = [
         "questionText": "66-letni pacjent leczony dotąd wyłącznie z powodu nadciśnienia tętniczego, niemający  dotąd rozpoznanego migotania przedsionków, zgłosił się na ostry dyżur z powodu  uczucia kołatania serca obecnego od ok. trzech dni. Pacjent stabilny hemodynamicznie,  w badaniu EKG stwierdzono migotanie przedsionków z odpowiedzią komór ok. 135/min.  W takiej sytuacji, poza włączeniem leczenia przeciwzakrzepowego, należy:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -11051,7 +11051,7 @@ export const interna = [
         "questionText": "Bezwzględnym przeciwwskazaniem do fibrynolizy jest:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -11080,7 +11080,7 @@ export const interna = [
         "questionText": "Hiperkalcemia nowotworowa:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -11109,7 +11109,7 @@ export const interna = [
         "questionText": "Rak płuca w Polsce:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -11138,7 +11138,7 @@ export const interna = [
         "questionText": "Nowotwór o nieznanym umiejscowieniu pierwotnym:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -11167,7 +11167,7 @@ export const interna = [
         "questionText": "Wskaż prawdziwe stwierdzenia dotyczące submikroskopowego kłębuszkowego  zapalenia nerek (nefropatia zmian minimalnych):  1) w obrazie klinicznym dominuje zespół nerczycowy;  2) w mikroskopie świetlnym stwierdza się prawidłowy obraz histopatologiczny wycinka  nerki;  3) u większości pacjentów występuje nadciśnienie tętnicze;  4) przebieg kliniczny jest progresywny, w ciągu pięciu lat u 40% chorych dochodzi do  rozwoju niewydolności nerek;  5) lekiem pierwszego wyboru w leczeniu są glikokortykosteroidy.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -11196,7 +11196,7 @@ export const interna = [
         "questionText": "Gorączka neutropeniczna u chorych na złośliwe nowotwory:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -11225,7 +11225,7 @@ export const interna = [
         "questionText": "Wskaż schorzenia, w przebiegu których występuje wtórna nefropatia IgA:  1) stwardnienie rozsiane;  2) łuszczyca;  3) zakażenie wirusem HIV;  4) nefropatia arystocholowa;  5) spondyloartropatie zapalne.  Prawidłowa odpowiedź to:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -11254,7 +11254,7 @@ export const interna = [
         "questionText": "W celu rozpoznania ostrego uszkodzenia nerek (AKI) należy oceniać czynność nerek  na podstawie:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -11283,7 +11283,7 @@ export const interna = [
         "questionText": "Dla przewlekłej białaczki szpikowej charakterystyczne jest:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
@@ -11312,7 +11312,7 @@ export const interna = [
         "questionText": "Do kryteriów klasyfikacyjnych tocznia rumieniowatego układowego nie należy/ą:",
         "isHidden": true,
         "tags": [
-            "interna"
+            "LEK_interna"
         ],
         "answers": [
             {
