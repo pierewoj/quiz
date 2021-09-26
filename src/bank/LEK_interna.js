@@ -11,7 +11,7 @@ export const interna = [
             },
             {
                 "answerText": "powtórzyć test po odstawieniu preparatów żelaza.",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "answerText": "wyeliminować chorobę trzewną.",
@@ -29,7 +29,7 @@ export const interna = [
     },
     {
         "questionText": "U chorego z kardiomiopatią przerostową, ze szczytowym, chwilowym gradientem w  drodze odpływu lewej komory - 35 mmHg (ocenionym metodą echokardiografii  dopplerowskiej), z frakcją wyrzutową lewej komory 52% i objawami niewydolności serca  w II klasie NYHA oraz bólami dławicowymi należy unikać stosowania:  1) niesteroidowych leków przeciwzapalnych;  2) nierozszerzających naczyń beta-adrenolityków;  3) niedihydropirynowych blokerów kanału wapniowego;  4) nitratów o przedłużonym działaniu;  5) glikozydów naparstnicy.  Prawidłowa odpowiedź to:",
-        "isHidden": true,
+        
         "tags": [
             "LEK_interna"
         ],
@@ -40,7 +40,7 @@ export const interna = [
             },
             {
                 "answerText": "1,4,5.",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "answerText": "2,3,5.",
