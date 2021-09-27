@@ -61,7 +61,7 @@ class Answer extends React.Component {
 class Question extends React.Component {
     render() {
         const isCorrect = isCorrectlyAnswered(this.props.value)
-        const questionTextPrefix = this.props.showResults ? (isCorrect ? "[OKS] " : "[WRONG] ") : "";
+        const questionTextPrefix = this.props.showResults ? (isCorrect ? "[OK] " : "[WRONG] ") : "";
         const answers = this.props.value.answers.map((a) =>
             <Answer value={a} showResults={this.props.showResults} toogleSelectionHandler={ans => {
                 if (this.props.showResults) {
