@@ -379,7 +379,7 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "The doctor stating death is obliged to immediately notify the police or the prosecutor if:  1) they are unable to determine the cause of death;  2) the deceased does not have a next of kin within the meaning of Article 3 of the Act on  Patients’ Rights and the Ombudsman for Patients' Rights;  3) they have a justified suspicion that a crime was the cause of death;  4) they have a justified suspicion that suicide was the cause of death;  5) they are unable to establish the identity of the deceased;  The correct answer is:",
-        "isHidden": true,
+        
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
@@ -394,7 +394,7 @@ export const LEK_bioethics_and_medical_law = [
             },
             {
                 "answerText": "3,4,5.",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "answerText": "1,2.",
@@ -416,7 +416,7 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "A doctor is going to do some experiment on animals. Before launching it they should  obtain the approval of:",
-        "isHidden": true,
+        
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
@@ -439,7 +439,7 @@ export const LEK_bioethics_and_medical_law = [
             },
             {
                 "answerText": "locally appropriate local ethical committee.",
-                "isCorrect": false
+                "isCorrect": true
             }
         ]
     },
@@ -453,7 +453,7 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "Are doctors allowed to intervene in human genome?",
-        "isHidden": true,
+        
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
@@ -476,7 +476,7 @@ export const LEK_bioethics_and_medical_law = [
             },
             {
                 "answerText": "doctors are allowed to make such interventions for preventive and therapeutic goals  upon patient’s and relevant ethics committee consent.",
-                "isCorrect": false
+                "isCorrect": true
             }
         ]
     },
@@ -490,7 +490,7 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "Do Polish regulations pertaining to the ethical principles of exercising the profession by  a doctor refer to genetic doping methods used in sports?",
-        "isHidden": true,
+        
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
@@ -509,7 +509,7 @@ export const LEK_bioethics_and_medical_law = [
             },
             {
                 "answerText": "prohibition of such methods was directly expressed in the Code of Medical Ethics.",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "answerText": "individual regional medical chambers separately take a stand on this issue.",
@@ -527,7 +527,7 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "Should the attending doctor planning a diagnostic procedure carrying increased risk  obtain his patient’s consent for it?",
-        "isHidden": true,
+      
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
@@ -542,7 +542,7 @@ export const LEK_bioethics_and_medical_law = [
             },
             {
                 "answerText": "yes, written consent prior to the test.",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "answerText": "yes, oral consent after the test.",
@@ -564,14 +564,14 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "A 13-year-old girl reports to the doctor office with her grandmother. During the  examination the doctor starts to suspect that the girl has been sexually abused by her  stepfather. The girl confirms this suspicion but asks the doctor to keep it secret. In that  situation the doctor:",
-        "isHidden": true,
+        
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
         "answers": [
             {
                 "answerText": "has the duty to inform law enforcement authorities about the crime committed.",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "answerText": "has the duty to inform their superior and seek his/her advice what to do next.",
@@ -601,7 +601,7 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "According to the principles of medical ethics, while performing medical activities, the  doctor:",
-        "isHidden": true,
+       
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
@@ -624,7 +624,7 @@ export const LEK_bioethics_and_medical_law = [
             },
             {
                 "answerText": "shall be free to choose the methods of conduct which he considers the most effective  to an extent limited by the current medical knowledge and patient's real needs.",
-                "isCorrect": false
+                "isCorrect": true
             }
         ]
     },
@@ -638,7 +638,7 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "An employer turns to his doctor employee, who works on the contract of employment, to  sign a contract including the so-called non-compete clause. What should the doctor do?",
-        "isHidden": true,
+        
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
@@ -661,7 +661,7 @@ export const LEK_bioethics_and_medical_law = [
             },
             {
                 "answerText": "they can sign such a clause and it takes effect but they are not obliged to do so.",
-                "isCorrect": false
+                "isCorrect": true
             }
         ]
     },
@@ -694,7 +694,7 @@ export const LEK_bioethics_and_medical_law = [
             },
             {
                 "answerText": "if the patient’s life or health is in danger they should help the patient regardless of a  lack of the contract with the National Health Service (NFZ).",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "answerText": "they can help but after obtaining a written agreement from the community  administrator, mayor or city president that the community will cover the cost of the  procedure.",
@@ -712,7 +712,7 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "A long-term female partner of the deceased patient comes to the doctor’s office and  demands revealing the secrets of the disease her partner suffered from. During his life,  the patient expressed the will not to disclose the information covered by medical  secrecy to his female partner. According to the Act of 5 December 1996 on the  Professions of Physician and Dentist, the physician:",
-        "isHidden": true,
+        
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
@@ -735,7 +735,7 @@ export const LEK_bioethics_and_medical_law = [
             },
             {
                 "answerText": "is allowed to reveal medical secrecy and give the information to the female partner  only if the disease is infectious and may pose a threat to her life and health.",
-                "isCorrect": false
+                "isCorrect": true
             }
         ]
     },
@@ -749,7 +749,7 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "Does the Code of Medical Ethics refer to euthanasia?",
-        "isHidden": true,
+        
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
@@ -768,7 +768,7 @@ export const LEK_bioethics_and_medical_law = [
             },
             {
                 "answerText": "yes, the Code clearly points out that the physician is not allowed to perform  euthanasia and help the ill to commit suicide.",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "answerText": "yes, but the Code does not use the term “euthanasia”.",
@@ -786,7 +786,7 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "A patient with her husband come to the gynaecologist’s office. The husband wants to be  present at the examination. What should the doctor do?  1) they should allow the husband to be present at the examination because husband as  a close person has the right to be present at the provision of health services;  2) if the patient does not give her clear consent to her husband’s presence, they should  ask him to leave;  3) they may not allow the husband to be present at the provision of health services to  his wife if they decide that the patient’s health safety is at stake;  4) they should let the husband assist because her silence should be interpreted as  implicit consent;  5) regardless of circumstances and the patient’s will they should ask the husband to  leave because the examination may violate the patient’s right to intimacy.  The correct answer is:",
-        "isHidden": true,
+        
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
@@ -797,7 +797,7 @@ export const LEK_bioethics_and_medical_law = [
             },
             {
                 "answerText": "2,3.",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "answerText": "1,4.",
@@ -823,14 +823,14 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "According to the Code of Medical Ethics, the doctor's highest ethical commandment is:",
-        "isHidden": true,
+       
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
         "answers": [
             {
                 "answerText": "well-being of the patient.",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "answerText": "autonomy of the patient.",
@@ -860,7 +860,7 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "Parents with their child reports to the Primary Health Care doctor. The child should have  protective vaccination done but the parents object. What should the doctor do?",
-        "isHidden": true,
+       
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
@@ -879,7 +879,7 @@ export const LEK_bioethics_and_medical_law = [
             },
             {
                 "answerText": "doctor does not perform vaccination but notifies this in his quarterly report forwarded  to the State Regional Sanitary Inspector.",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "answerText": "doctor can do vaccination against parental refusal but should consult another doctor  possibly of the same specialty.",
@@ -897,7 +897,7 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "A Pole, a British citizen, passed matriculation examinations in Poland and on the 3rd of  October 2012 started medical studies in Poland which covered 5500 hours of didactic  classes. They passed Physician Final Examination (LEK) in English. The Regional  Chamber of Physicians and Dentists is obliged to refuse them the right to practice as a  doctor in the situation in which:",
-        "isHidden": true,
+        
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
@@ -916,7 +916,7 @@ export const LEK_bioethics_and_medical_law = [
             },
             {
                 "answerText": "the Chamber has justifiable objections to their ethical attitude.",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "answerText": "in all the above situations.",
@@ -934,7 +934,7 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "st    The Code of Medical Ethics prohibits physicians from:",
-        "isHidden": true,
+       
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
@@ -957,7 +957,7 @@ export const LEK_bioethics_and_medical_law = [
             },
             {
                 "answerText": "assisting the patient in committing suicide.",
-                "isCorrect": false
+                "isCorrect": true
             }
         ]
     },
@@ -971,7 +971,7 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "The doctor may provide a healthcare service that involves kidney biopsy in an adult  patient who is completely legally incapacitated after obtaining:",
-        "isHidden": true,
+    
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
@@ -994,7 +994,7 @@ export const LEK_bioethics_and_medical_law = [
             },
             {
                 "answerText": "consent of a statutory proxy of the patient.",
-                "isCorrect": false
+                "isCorrect": true
             }
         ]
     },
@@ -1008,7 +1008,7 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "A patient needing hospitalization was taken to the ER. According to the regulation on  the conditions, manner and mode to supply hospital patients with identification signs  and how to proceed if found their absence such a patient should be provided with an  identification sign placed:  1) on the fever card affixed visibly to the patient’s bed;  2) on a room board at the entrance to the patient’s room;  3) on a band around the patient’s wrist or ankle;  4) in the patient’s individual medical records;  5) on an identifier around the patient’s neck.  The correct answer is:",
-        "isHidden": true,
+      
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
@@ -1027,7 +1027,7 @@ export const LEK_bioethics_and_medical_law = [
             },
             {
                 "answerText": "3,4.",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "answerText": "2,3.",
@@ -1045,14 +1045,14 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "Is it a doctor’s duty to turn the attention of society, authorities and patients to the  importance of health care?",
-        "isHidden": true,
+    
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
         "answers": [
             {
                 "answerText": "yes, it is conferred from the Code of Medical Ethics.",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "answerText": "yes, it is conferred from the Act on Professions of Physician and Dentist.",
@@ -1082,7 +1082,7 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "Which of the following concerning the principle of double effect is true?",
-        "isHidden": true,
+        
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
@@ -1105,7 +1105,7 @@ export const LEK_bioethics_and_medical_law = [
             },
             {
                 "answerText": "A, B and C are correct.",
-                "isCorrect": false
+                "isCorrect": true
             }
         ]
     },
@@ -1119,7 +1119,6 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "According to the principles of medical ethics, in the case of diagnostic and therapeutic  doubts, the doctor should:",
-        "isHidden": true,
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
@@ -1130,7 +1129,7 @@ export const LEK_bioethics_and_medical_law = [
             },
             {
                 "answerText": "ensure that the patient is consulted by another doctor, in awareness of the fact that  the doctor conducting the treatment is responsible for the whole procedure.",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "answerText": "provide the patient with further diagnostic tests.",
@@ -1156,7 +1155,7 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "The doctor's duties towards respecting patients' rights include, among others:",
-        "isHidden": true,
+      
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
@@ -1179,7 +1178,7 @@ export const LEK_bioethics_and_medical_law = [
             },
             {
                 "answerText": "to ensure that he or she, as well as other medical personnel, respect the patient's  privacy and personal dignity when dealing with the patient.",
-                "isCorrect": false
+                "isCorrect": true
             }
         ]
     },
@@ -1193,14 +1192,14 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "The Code of Medical Ethics does not prohibit physicians from carrying out:",
-        "isHidden": true,
+       
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
         "answers": [
             {
                 "answerText": "in vitro fertilization.",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "answerText": "euthanasia.",
@@ -1230,7 +1229,7 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "Is the following sentence: “Doctors are not allowed to cooperate with people who deal  with the treatment but who don’t have entitlements to do so.” true?",
-        "isHidden": true,
+      
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
@@ -1241,7 +1240,7 @@ export const LEK_bioethics_and_medical_law = [
             },
             {
                 "answerText": "the sentence is true - it is a part of the Code of Medical Ethics art.57, §1.",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "answerText": "Polish deontological regulations do not refer to this issue.",
@@ -1267,7 +1266,7 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "Is the patient allowed to raise objections to the doctor’s opinion concerning their illness?",
-        "isHidden": true,
+    
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
@@ -1282,7 +1281,7 @@ export const LEK_bioethics_and_medical_law = [
             },
             {
                 "answerText": "yes, this is one of the patient’s rights.",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "answerText": "patient does not have such a right.",
