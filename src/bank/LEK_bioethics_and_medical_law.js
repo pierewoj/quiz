@@ -1303,14 +1303,14 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "Providing patients with information about their health conditions:",
-        "isHidden": true,
+       
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
         "answers": [
             {
                 "answerText": "is the doctor’s duty whether or not patients ask for it.",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "answerText": "is the doctor’s duty only if the doctor wants to obtain patients’ consent for medical  services.",
@@ -1340,7 +1340,7 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "Do deontological rules allow the doctor to initiate diagnostic and therapeutic treatment  without patient consent?",
-        "isHidden": true,
+      
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
@@ -1359,7 +1359,7 @@ export const LEK_bioethics_and_medical_law = [
             },
             {
                 "answerText": "code of Medical Ethics allows for such a possibility exceptionally when the health or  life of the patient or other people is at stake.",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "answerText": "doctor always has the duty to obtain patient’s or their legal guardian’s consent.",
@@ -1377,7 +1377,7 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "According to the Act on the Professions of Physician and Dentist, the right to perform  the profession of doctor and the right to perform the profession of dentist (in other  words, the medical license) is granted by:",
-        "isHidden": true,
+        
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
@@ -1396,7 +1396,7 @@ export const LEK_bioethics_and_medical_law = [
             },
             {
                 "answerText": "competent Regional Medical Council.",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "answerText": "competent Regional Chamber of Physicians and Dentists.",
@@ -1414,7 +1414,7 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "Is the doctor allowed to give medical advice at a distance?",
-        "isHidden": true,
+        
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
@@ -1433,7 +1433,7 @@ export const LEK_bioethics_and_medical_law = [
             },
             {
                 "answerText": "yes, the regulations include possible actions taken by means of telephone  communication.",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "answerText": "no, such an action is forbidden and considered unethical.",
@@ -1451,7 +1451,7 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "To which sources of proceedings does the Code of Medical Ethics refer doctors in  matters not regulated by it?",
-        "isHidden": true,
+       
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
@@ -1474,7 +1474,7 @@ export const LEK_bioethics_and_medical_law = [
             },
             {
                 "answerText": "principles expressed in the resolutions of the medical self-government authorities, in  medical court case law and in good manners accepted by the medical community.",
-                "isCorrect": false
+                "isCorrect": true
             }
         ]
     },
@@ -1488,7 +1488,7 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "In accordance with the Polish Code of Ethics is the doctor allowed to discriminate  against people because of their genetic heritage?",
-        "isHidden": true,
+      
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
@@ -1507,7 +1507,7 @@ export const LEK_bioethics_and_medical_law = [
             },
             {
                 "answerText": "no.",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "answerText": "the Polish Code of Ethics does not cover genetic heritage.",
@@ -1525,7 +1525,7 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "Medical Rescue Team was called to a man who fell down the stairs. The rescue doctor  found out that the patient hit himself hard in the back and stays in a lying position on the  spot where he fell. The patient refuses to be taken to the hospital. What should the  doctor do in light of the medical law?",
-        "isHidden": true,
+     
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
@@ -1540,7 +1540,7 @@ export const LEK_bioethics_and_medical_law = [
             },
             {
                 "answerText": "provide information on the potential effects of the injury and suggested diagnostics  and then follow the patient’s will.",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "answerText": "notify the psychiatrist, appointed by the province governor, who can take a decision  about forced hospitalization.",
@@ -1562,7 +1562,7 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "According to the Code of Medical Ethics the decision to stop the resuscitation is taken  by:",
-        "isHidden": true,
+        
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
@@ -1585,7 +1585,7 @@ export const LEK_bioethics_and_medical_law = [
             },
             {
                 "answerText": "doctor and is associated with the assessment of medicinal chances.",
-                "isCorrect": false
+                "isCorrect": true
             }
         ]
     },
