@@ -8,7 +8,7 @@ export const LEK_bioethics_and_medical_law = [
         "answers": []
     },
     {
-        "questionText": "is the doctor obliged to report to the police an attempt to kill a man if they obtained this  information during medical examination?",
+        "questionText": "Is the doctor obliged to report to the police an attempt to kill a man if they obtained this  information during medical examination?",
        
         "tags": [
             "LEK_bioethics_and_medical_law"
