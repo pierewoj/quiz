@@ -9,7 +9,7 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "Is the doctor obliged to report to the police an attempt to kill a man if they obtained this  information during medical examination?",
-        "isHidden": true,
+       
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
@@ -32,7 +32,7 @@ export const LEK_bioethics_and_medical_law = [
             },
             {
                 "answerText": "doctor is obliged to do so because the matter concerns an activity that is forbidden by  Art. 240 § 1 of the Penal Code.",
-                "isCorrect": false
+                "isCorrect": true
             }
         ]
     },
@@ -46,7 +46,7 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "A patient dissatisfied with the way he has been treated demands the doctor hold a  consultation. The patient, other doctors, a priest and a homeopath healer who has been  “curing” the patient’s family for years should take part in the consultation. According to  the Code of Medical Ethics the doctor should:",
-        "isHidden": true,
+      
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
@@ -65,7 +65,7 @@ export const LEK_bioethics_and_medical_law = [
             },
             {
                 "answerText": "hold the consultation without the healer and a priest.",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "answerText": "refuse to hold such a consultation.",
@@ -83,7 +83,7 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "A contract of employment in the hospital has been offered to a doctor. The employment  is based on the co-called equivalent work time. This means that:  1) standard daily working time can be increased up to 12 hours;  2) standard daily working time can be increased up to 18 hours;  3) standard weekly working time is increased to 48 hours;    4) basically the time calculation period is shortened to 1 month;  5) basically the time calculation period is prolonged to 6 months.  The correct answer is:",
-        "isHidden": true,
+        
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
@@ -106,7 +106,7 @@ export const LEK_bioethics_and_medical_law = [
             },
             {
                 "answerText": "1,4.",
-                "isCorrect": false
+                "isCorrect": true
             }
         ]
     },
@@ -120,7 +120,7 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "A pregnant woman had previously given birth to a child with hypochondroplasia, a  genetic disease manifesting itself in dwarfism combined with joint and bone deformities.  Fearing that this disease will occur in another child, she was referred by a gynecologist  to a consultation clinic for women with high-risk pregnancies where she asked the  physician for a referral to prenatal testing. The physician refused. Was that decision  justified?",
-        "isHidden": true,
+      
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
@@ -135,7 +135,7 @@ export const LEK_bioethics_and_medical_law = [
             },
             {
                 "answerText": "no, because physician's refusal to refer the patient violated the patient's right to  information and medical services.",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "answerText": "no, because prenatal testing is compulsory for pregnant women.",
@@ -157,14 +157,14 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "Is the doctor allowed to reject or discontinue the treatment of the patient?",
-        "isHidden": true,
+        
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
         "answers": [
             {
                 "answerText": "yes, in exceptional cases, and they have to inform the patient about the possibility to  receive help elsewhere.",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "answerText": "no, it is the doctor’s duty to always help the patient.",
@@ -194,7 +194,7 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "In accordance with the Act of 5 December 2008 on preventing and combating infections  and infectious diseases in humans, a Canadian citizen while in Poland is exempted  from the obligation to undergo protective vaccinations (except post-exposure  vaccinations) if their length of stay is not longer than:",
-        "isHidden": true,
+       
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
@@ -209,7 +209,7 @@ export const LEK_bioethics_and_medical_law = [
             },
             {
                 "answerText": "3 months.",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "answerText": "4 months.",
@@ -231,14 +231,14 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "A doctor can issue the death certificate:  1) on the basis of their own tests and conclusions;  2) on the basis of the documentation of post-mortem examination made by another  doctor;  3) on the basis of patient’s medical documentation made before their death.  4) only after autopsy;  5) on the basis of the information obtained from the deceased’s close persons.  The correct answer is:",
-        "isHidden": true,
+      
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
         "answers": [
             {
                 "answerText": "1,2.",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "answerText": "2,3.",
@@ -268,7 +268,7 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "What measures should the doctor take while examining the patient or providing them  with other medical services without the patient’s consent (due to their poor health    condition or age)?",
-        "isHidden": true,
+        
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
@@ -291,13 +291,13 @@ export const LEK_bioethics_and_medical_law = [
             },
             {
                 "answerText": "they should register such activities in the patient’s medical records and, if possible,  consult their actions with another doctor.",
-                "isCorrect": false
+                "isCorrect": true
             }
         ]
     },
     {
         "questionText": "Question",
-        "isHidden": true,
+       
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
@@ -305,7 +305,7 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "Which of the following state organs is to announce the Preventive Vaccination Program  for a given year?",
-        "isHidden": true,
+      
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
@@ -316,7 +316,7 @@ export const LEK_bioethics_and_medical_law = [
             },
             {
                 "answerText": "such a document is announced by the Chief Sanitary Inspector in the Official Journal  of the Minister of Health.",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "answerText": "such activities are the responsibility of the Chief Pharmaceutical Inspector.",
@@ -334,7 +334,7 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "Question",
-        "isHidden": true,
+      
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
@@ -342,7 +342,7 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "According to the Act of 5 December 1996 on the profession of doctors and dentists,  prescriptions are to be given to the patient or:  1) patient’s legal representative;  2) authorized person (indicated name and family name) by the patient;  3) other party with no specified identity authorized by the patient;  4) in the case of e-prescription in the form of a printout, authorized person (indicated  name and family name) by the patient;  5) in the case of e-prescription in the form of a printout, other party with no specified  identity authorized by the patient.  The correct answer is:",
-        "isHidden": true,
+      
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
@@ -365,7 +365,7 @@ export const LEK_bioethics_and_medical_law = [
             },
             {
                 "answerText": "all the above.",
-                "isCorrect": false
+                "isCorrect": true
             }
         ]
     },
