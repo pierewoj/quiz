@@ -1599,7 +1599,7 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "What does the Polish Code of Ethics say about human cloning?",
-        "isHidden": true,
+        
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
@@ -1614,7 +1614,7 @@ export const LEK_bioethics_and_medical_law = [
             },
             {
                 "answerText": "does not allow human cloning.",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "answerText": "does not cover this issue.",
@@ -1636,7 +1636,7 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "The doctor while giving medical services to his patient finds out that they suffer from  infectious, sexually transmitted disease. What should he do?  1) he should immediately pass on the information to the appropriate voivode, who can  take a decision to isolate the patient;  2) he should force the patient to stay in place and immediately call the sanitary services;  3) he should inform the patient about the means that prevent the disease from  spreading;  4) he has the duty to inform the patient of the necessity that their sexual partner consult  a doctor;  5) he must immediately let all the people closely associated with the patient know and  warn them about the threat.  The correct answer is:",
-        "isHidden": true,
+    
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
@@ -1651,7 +1651,7 @@ export const LEK_bioethics_and_medical_law = [
             },
             {
                 "answerText": "3,4.",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "answerText": "1,3,4.",
@@ -1673,7 +1673,7 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "Is the doctor allowed to perform a surgical procedure or use increased risk treatment  without the consent of the minor patient’s legal guardian (e.g. their parent) or the  consent of the guardianship court?",
-        "isHidden": true,
+     =
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
@@ -1692,7 +1692,7 @@ export const LEK_bioethics_and_medical_law = [
             },
             {
                 "answerText": "doctor is allowed to take such actions if any delay caused by obtaining the consent  could result in patient’s death, grievous bodily harm or severe health disorder.",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "answerText": "such actions are possible but the consent of the legal guardian is in those situations  indispensable.",
@@ -1710,14 +1710,14 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "The actual carer of an adult unconscious patient is allowed to express their consent for:",
-        "isHidden": true,
+     
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
         "answers": [
             {
                 "answerText": "examination of the patient only.",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "answerText": "examination of the patient and the following treatment which does not pose a threat  to the patient.",
@@ -1747,7 +1747,7 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "Many doctors have the title “doctor of medicine” embedded in their rubber stamps. In  light of the current law:",
-        "isHidden": true,
+       
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
@@ -1758,7 +1758,7 @@ export const LEK_bioethics_and_medical_law = [
             },
             {
                 "answerText": "such a title cannot be used at all because it does not exist in the legal sense.",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "answerText": "such a title can be used only by doctors who graduated before 1996.",
@@ -1784,7 +1784,7 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "Brain death was confirmed in a 25-year-old patient who did not want to become an  organ donor, a fact that was noted in the Central Register of Objections. According to  the Code of Medical Ethics the attending doctor should:",
-        "isHidden": true,
+        
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
@@ -1807,7 +1807,7 @@ export const LEK_bioethics_and_medical_law = [
             },
             {
                 "answerText": "turn the respirator off and issue the death certificate.",
-                "isCorrect": false
+                "isCorrect": true
             }
         ]
     },
@@ -1821,7 +1821,7 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "Does the Code of Medical Ethics refer to the problem of determining the order of  medical services for patients?",
-        "isHidden": true,
+     
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
@@ -1844,7 +1844,7 @@ export const LEK_bioethics_and_medical_law = [
             },
             {
                 "answerText": "Code of Medical Ethics directly indicates that the doctor determining the order of  patients should base their decision on medical criteria.",
-                "isCorrect": false
+                "isCorrect": true
             }
         ]
     },
@@ -1858,7 +1858,7 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "Are doctors allowed to carry out medical experiments on pregnant women?",
-        "isHidden": true,
+   
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
@@ -1881,7 +1881,7 @@ export const LEK_bioethics_and_medical_law = [
             },
             {
                 "answerText": "pregnant women are allowed to take part in such experiments. The law specifies in  this case special doctor’s duties.",
-                "isCorrect": false
+                "isCorrect": true
             }
         ]
     },
@@ -1895,14 +1895,14 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "Who can issue a patient’s death certificate?",
-        "isHidden": true,
+        
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
         "answers": [
             {
                 "answerText": "any doctor.",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "answerText": "any doctor with at least five years of service.",
@@ -1932,7 +1932,7 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "Does a child who turned 16 years of age have a right to full information concerning their  treatment?",
-        "isHidden": true,
+        
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
@@ -1951,7 +1951,7 @@ export const LEK_bioethics_and_medical_law = [
             },
             {
                 "answerText": "yes, the right takes effect at that age.",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "answerText": "no, they do not have such a right.",
@@ -1969,14 +1969,14 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "A doctor speaking critically about another doctor's actions should:",
-        "isHidden": true,
+       
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
         "answers": [
             {
                 "answerText": "be extremely careful in formulating an opinion about this doctor's professional  activity, in particular he should not publicly discredit him in any way.",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "answerText": "make clear and distinct claims against that doctor by presenting his opinion in the  media.",
@@ -2006,7 +2006,7 @@ export const LEK_bioethics_and_medical_law = [
     },
     {
         "questionText": "Medical Rescue Team with the doctor was called to a 32-year-old man who was under  the influence of designer drugs. These drugs caused the patient to react aggressively.  What are the conditions under which it is possible to apply direct coercion in this  patient?  1) it can be applied only if the doctor diagnoses the patient with mental illness;  2) doctor is allowed to apply it if they obtain consent from a medical specialist in  psychiatry appointed by the province governor;  3) patient’s behavior poses a threat to his life or health;  4) it is only possible to hold the patient down and to immobilize him. However, the  doctor is not allowed to force the patient to take medication;  5) before applying direct coercion the doctor should warn the patient.  The correct answer is:",
-        "isHidden": true,
+       
         "tags": [
             "LEK_bioethics_and_medical_law"
         ],
